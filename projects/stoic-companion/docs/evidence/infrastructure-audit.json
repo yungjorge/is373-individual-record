@@ -1,0 +1,488 @@
+{
+  "database_dialect": "postgresql",
+  "corpus_version": "semantic-v1",
+  "embedding_provider": "openai",
+  "generation_provider": "openai",
+  "integrity": {
+    "validated_chunks": 909,
+    "checksums": "verified"
+  },
+  "migration_revision": "0001",
+  "sources": 6,
+  "passages": 586,
+  "chunks": 909,
+  "qdrant": {
+    "collection": "stoic_b08377070840bdad",
+    "dimensions": 1536,
+    "distance": "Cosine",
+    "points": 909,
+    "payload_indexes": [
+      "author",
+      "corpus_version",
+      "document_id",
+      "parent_id",
+      "work"
+    ]
+  },
+  "retrieval": {
+    "dense": {
+      "passage_ids": [
+        "enchiridion-long:XXV",
+        "enchiridion-long:XV",
+        "discourses-long:heading-53",
+        "discourses-long:heading-54:part3",
+        "enchiridion-long:XXIV"
+      ],
+      "debug": {
+        "expanded_query": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend? better wealth honor envy honour preference supper price",
+        "strategies": [
+          "dense"
+        ],
+        "timing_ms": 205.06,
+        "candidates": [
+          {
+            "chunk_id": "a94b3871-9ac8-577e-aaa9-5e6f8edadc10",
+            "dense_score": 0.53126574,
+            "bm25_score": null,
+            "rrf_score": 0.01639344262295082,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "77667cf0-815b-5b12-a213-e90e0948d6d1",
+            "dense_score": 0.46429,
+            "bm25_score": null,
+            "rrf_score": 0.016129032258064516,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "1dff87fe-7bae-54ae-8c07-87b6f349367d",
+            "dense_score": 0.45675433,
+            "bm25_score": null,
+            "rrf_score": 0.015873015873015872,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "42d2cc3f-8e19-5e6a-8c8b-49ecec080109",
+            "dense_score": 0.4514649,
+            "bm25_score": null,
+            "rrf_score": 0.015625,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "287ad2a3-d1a3-5b67-b568-f4f4f670d499",
+            "dense_score": 0.45035377,
+            "bm25_score": null,
+            "rrf_score": 0.015384615384615385,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "b3387ce9-69a5-5646-b907-f987a6893843",
+            "dense_score": 0.44931608,
+            "bm25_score": null,
+            "rrf_score": 0.015151515151515152,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "c90091ef-e648-5004-93ec-b5e2f5785866",
+            "dense_score": 0.44756114,
+            "bm25_score": null,
+            "rrf_score": 0.014925373134328358,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "bcad9229-4c11-5f90-8d31-da009a75d615",
+            "dense_score": 0.44172424,
+            "bm25_score": null,
+            "rrf_score": 0.014705882352941176,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "dd240cf3-a459-58e4-8f41-85205b8c77b9",
+            "dense_score": 0.43448868,
+            "bm25_score": null,
+            "rrf_score": 0.014492753623188406,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "278934e6-5053-56b9-9ed5-7d634a267ce0",
+            "dense_score": 0.42613652,
+            "bm25_score": null,
+            "rrf_score": 0.014285714285714285,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "ab894c9c-6d98-5583-8361-7542def760d5",
+            "dense_score": 0.4239946,
+            "bm25_score": null,
+            "rrf_score": 0.014084507042253521,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "53b7e5fe-91b4-5ebf-be54-c61af4587eb8",
+            "dense_score": 0.4235608,
+            "bm25_score": null,
+            "rrf_score": 0.013888888888888888,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "296db7b1-194d-55ed-af40-af6bfb0db583",
+            "dense_score": 0.42284,
+            "bm25_score": null,
+            "rrf_score": 0.0136986301369863,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "31a0a3e7-4a1a-59e0-8f3a-fc717d2b7e43",
+            "dense_score": 0.422292,
+            "bm25_score": null,
+            "rrf_score": 0.013513513513513514,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "ff8e29f6-9cfc-5ba9-8835-5469a13af360",
+            "dense_score": 0.4212744,
+            "bm25_score": null,
+            "rrf_score": 0.013333333333333334,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "d8e23b50-a0bd-5dfd-89b3-9c4f24437633",
+            "dense_score": 0.41699308,
+            "bm25_score": null,
+            "rrf_score": 0.013157894736842105,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "49f60a12-a659-5ada-8816-2c193abe8c62",
+            "dense_score": 0.41544604,
+            "bm25_score": null,
+            "rrf_score": 0.012987012987012988,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "493eb72b-eef6-5460-9f9b-e557294ae8f7",
+            "dense_score": 0.41482902,
+            "bm25_score": null,
+            "rrf_score": 0.01282051282051282,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "50bd247d-294f-54d2-a9fa-43c8ec0a94a6",
+            "dense_score": 0.4111426,
+            "bm25_score": null,
+            "rrf_score": 0.012658227848101266,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "55149af6-bed3-5bcc-b927-552ed2313b5f",
+            "dense_score": 0.41062403,
+            "bm25_score": null,
+            "rrf_score": 0.0125,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "2cd6a9eb-8c1b-5452-83c9-e3aa236f4ee3",
+            "dense_score": 0.40380526,
+            "bm25_score": null,
+            "rrf_score": 0.012345679012345678,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "e6ff3232-725a-5540-a215-e6ca311474eb",
+            "dense_score": 0.40269768,
+            "bm25_score": null,
+            "rrf_score": 0.012195121951219513,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "2d99c126-c4f5-5518-8ec2-9cda863301ff",
+            "dense_score": 0.39968365,
+            "bm25_score": null,
+            "rrf_score": 0.012048192771084338,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "1e8b8fd7-83ec-56f3-9e5b-f7bd912c4410",
+            "dense_score": 0.39887267,
+            "bm25_score": null,
+            "rrf_score": 0.011904761904761904,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "101d56b2-d077-5969-bf73-a40fcaa03ff5",
+            "dense_score": 0.39621764,
+            "bm25_score": null,
+            "rrf_score": 0.011764705882352941,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "c13e3248-0e67-538d-af19-2923e1a1d06c",
+            "dense_score": 0.39551076,
+            "bm25_score": null,
+            "rrf_score": 0.011627906976744186,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "0e0f581a-c0ad-5d01-a0e4-d77ed576f9a1",
+            "dense_score": 0.39491922,
+            "bm25_score": null,
+            "rrf_score": 0.011494252873563218,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "3db4b247-32ad-5697-9899-cf702f62f793",
+            "dense_score": 0.39434272,
+            "bm25_score": null,
+            "rrf_score": 0.011363636363636364,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "048a2800-f544-5b4f-b65f-3be7b51af044",
+            "dense_score": 0.39115086,
+            "bm25_score": null,
+            "rrf_score": 0.011235955056179775,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "6e064093-6ecd-5819-92d1-f7a86b22b5bd",
+            "dense_score": 0.39062515,
+            "bm25_score": null,
+            "rrf_score": 0.011111111111111112,
+            "rerank_score": null
+          }
+        ]
+      }
+    },
+    "hybrid": {
+      "passage_ids": [
+        "enchiridion-long:XXV",
+        "enchiridion-long:XXIV",
+        "discourses-long:heading-65",
+        "meditations-casaubon:3.VII",
+        "enchiridion-long:XV"
+      ],
+      "debug": {
+        "expanded_query": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend? better wealth honor envy honour preference supper price",
+        "strategies": [
+          "dense",
+          "BM25",
+          "RRF"
+        ],
+        "timing_ms": 289.57,
+        "candidates": [
+          {
+            "chunk_id": "a94b3871-9ac8-577e-aaa9-5e6f8edadc10",
+            "dense_score": 0.53126574,
+            "bm25_score": 8.910306413119047,
+            "rrf_score": 0.03131881575727918,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "287ad2a3-d1a3-5b67-b568-f4f4f670d499",
+            "dense_score": 0.45035377,
+            "bm25_score": 8.702243450872286,
+            "rrf_score": 0.029877369007803793,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "49f60a12-a659-5ada-8816-2c193abe8c62",
+            "dense_score": 0.41544604,
+            "bm25_score": 20.924646658575575,
+            "rrf_score": 0.02938045560996381,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "c13e3248-0e67-538d-af19-2923e1a1d06c",
+            "dense_score": 0.39551076,
+            "bm25_score": 8.047486057156341,
+            "rrf_score": 0.0251414204902577,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "2cd6a9eb-8c1b-5452-83c9-e3aa236f4ee3",
+            "dense_score": 0.40380526,
+            "bm25_score": 6.83528637347729,
+            "rrf_score": 0.023581634068525453,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "77667cf0-815b-5b12-a213-e90e0948d6d1",
+            "dense_score": 0.46429,
+            "bm25_score": 6.131217866369157,
+            "rrf_score": 0.016129032258064516,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "a28f8249-92a1-5a65-9102-f4223f3ed95b",
+            "dense_score": null,
+            "bm25_score": 14.65377916614409,
+            "rrf_score": 0.016129032258064516,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "1dff87fe-7bae-54ae-8c07-87b6f349367d",
+            "dense_score": 0.45675433,
+            "bm25_score": null,
+            "rrf_score": 0.015873015873015872,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "a6e97f95-a501-5832-b505-128e69885796",
+            "dense_score": null,
+            "bm25_score": 12.241918293848919,
+            "rrf_score": 0.015873015873015872,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "42d2cc3f-8e19-5e6a-8c8b-49ecec080109",
+            "dense_score": 0.4514649,
+            "bm25_score": null,
+            "rrf_score": 0.015625,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "dc5263d7-391d-5dbb-b3c0-231f57bf43f1",
+            "dense_score": null,
+            "bm25_score": 9.762850077374555,
+            "rrf_score": 0.015625,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "7eab20c6-e037-5bfd-889e-671a93bad448",
+            "dense_score": null,
+            "bm25_score": 9.72507126596966,
+            "rrf_score": 0.015384615384615385,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "b3387ce9-69a5-5646-b907-f987a6893843",
+            "dense_score": 0.44931608,
+            "bm25_score": 3.6581108386508587,
+            "rrf_score": 0.015151515151515152,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "fa8fed9a-de92-55db-92f8-c78b85b579fe",
+            "dense_score": null,
+            "bm25_score": 9.088201704992654,
+            "rrf_score": 0.015151515151515152,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "c90091ef-e648-5004-93ec-b5e2f5785866",
+            "dense_score": 0.44756114,
+            "bm25_score": 1.7110883229841636,
+            "rrf_score": 0.014925373134328358,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "bcad9229-4c11-5f90-8d31-da009a75d615",
+            "dense_score": 0.44172424,
+            "bm25_score": 1.2063083575498734,
+            "rrf_score": 0.014705882352941176,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "509bfa7b-6e26-5f75-b718-d3e41ab6af97",
+            "dense_score": null,
+            "bm25_score": 8.888379099576818,
+            "rrf_score": 0.014705882352941176,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "dd240cf3-a459-58e4-8f41-85205b8c77b9",
+            "dense_score": 0.43448868,
+            "bm25_score": 6.230987886736702,
+            "rrf_score": 0.014492753623188406,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "278934e6-5053-56b9-9ed5-7d634a267ce0",
+            "dense_score": 0.42613652,
+            "bm25_score": 4.86634652652314,
+            "rrf_score": 0.014285714285714285,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "1ca1e90f-9a71-5dd4-91d4-44f10b35fa3d",
+            "dense_score": null,
+            "bm25_score": 8.5658659052728,
+            "rrf_score": 0.014285714285714285,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "ab894c9c-6d98-5583-8361-7542def760d5",
+            "dense_score": 0.4239946,
+            "bm25_score": 5.012766595374993,
+            "rrf_score": 0.014084507042253521,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "9fc513a2-0667-5a16-97f9-1c211b4f9a7e",
+            "dense_score": null,
+            "bm25_score": 8.303239249024198,
+            "rrf_score": 0.014084507042253521,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "53b7e5fe-91b4-5ebf-be54-c61af4587eb8",
+            "dense_score": 0.4235608,
+            "bm25_score": null,
+            "rrf_score": 0.013888888888888888,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "2ea0b36b-ab0b-54cc-9fae-67911218e9fa",
+            "dense_score": null,
+            "bm25_score": 8.270716826191471,
+            "rrf_score": 0.013888888888888888,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "296db7b1-194d-55ed-af40-af6bfb0db583",
+            "dense_score": 0.42284,
+            "bm25_score": 1.230575024778825,
+            "rrf_score": 0.0136986301369863,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "88cac24e-ffd9-5b4a-b851-efc6c2b52e8b",
+            "dense_score": null,
+            "bm25_score": 8.093491300336455,
+            "rrf_score": 0.0136986301369863,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "31a0a3e7-4a1a-59e0-8f3a-fc717d2b7e43",
+            "dense_score": 0.422292,
+            "bm25_score": 2.0775943896691884,
+            "rrf_score": 0.013513513513513514,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "ff8e29f6-9cfc-5ba9-8835-5469a13af360",
+            "dense_score": 0.4212744,
+            "bm25_score": 2.818875233153084,
+            "rrf_score": 0.013333333333333334,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "fbfe15d3-bedf-5ff7-aaeb-32a7410b37d9",
+            "dense_score": null,
+            "bm25_score": 7.985775288708781,
+            "rrf_score": 0.013333333333333334,
+            "rerank_score": null
+          },
+          {
+            "chunk_id": "d8e23b50-a0bd-5dfd-89b3-9c4f24437633",
+            "dense_score": 0.41699308,
+            "bm25_score": 4.845977827777562,
+            "rrf_score": 0.013157894736842105,
+            "rerank_score": null
+          }
+        ]
+      }
+    }
+  },
+  "status": "passed"
+}

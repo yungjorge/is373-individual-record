@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "embedding_model": "text-embedding-3-small",
+  "embedding_dimensions": 1536,
+  "embedding_ms": 3485.18,
+  "generation_ms": 3535.9,
+  "usage": {
+    "model": "gpt-4.1-mini",
+    "input_tokens": 1599,
+    "output_tokens": 225,
+    "estimated_cost": 0.002724
+  },
+  "verified_citation_ids": [
+    "enchiridion-long:I"
+  ],
+  "result": {
+    "summary": "Your choices are within your control, such as your opinions, desires, and actions. Outcomes, influenced by external factors like other people or luck, lie beyond your control. Recognizing this distinction helps avoid unnecessary distress when outcomes are uncertain.",
+    "selected_passage_ids": [
+      "enchiridion-long:I"
+    ],
+    "explanations": [
+      {
+        "passage_id": "enchiridion-long:I",
+        "interpretation": "This passage explains that only your own acts, desires, and opinions are truly within your power. External events like body condition, wealth, or reputation are not controlled by you, and depending on them for happiness or blaming others leads to disturbance. Hence, focusing on what you can control\u2014your choices\u2014and accepting what you cannot is the key way to distinguish your choices from uncertain outcomes."
+      }
+    ],
+    "practical_applications": [
+      "When facing a decision with uncertain outcome, focus on making the best choice aligned with your values and efforts, and let go of worry about the result you cannot control."
+    ],
+    "reflection_question": "How might your experience change if you accept that outcomes are uncertain but your choices remain fully yours to shape?",
+    "citations": [
+      {
+        "passage_id": "enchiridion-long:I",
+        "quote_text": "Of things some are in our power, and others are not. In our power are\nopinion ([Greek: hupolaepsis]), movement towards a thing ([Greek:\nhormae]), desire, aversion ([Greek: echchlisis]), turning from a thing;\nand in a word, whatever are our acts. Not in our power are the body,\nproperty, reputation, offices (magisterial power), and in a word,\nwhatever are not our own acts. And the things in our power are by\nnature free, not subject to restraint or hindrance; but the things not\nin our power are weak, slavish, subject to restraint, in the power of\nothers. Remember then, that if you think the things which are by nature\nslavish to be free, and the things which are in the power of others to\nbe your own, you will be hindered, you will lament, you will be\ndisturbed, you will blame both gods and men; but if you think that only\nwhich is your own to be your own, and if you think that what is\nanother\u2019s, as it really is, belongs to another, no man will ever compel\nyou, no man will hinder you, you will never blame any man, you will\naccuse no man, you will do nothing involuntarily (against your will),\nno man will harm you, you will have no enemy, for you will not suffer\nany harm.\n\nIf then you desire (aim at) such great things remember that you must\nnot (attempt to) lay hold of them with a small effort; but you must\nleave alone some things entirely, and postpone others for the present.\nBut if you wish for these things also (such great things), and power\n(office) and wealth, perhaps you will not gain even these very things\n(power and wealth) because you aim also at those former things (such\ngreat things); certainly you will fail in those things through which\nalone happiness and freedom are secured. Straightway then practise\nsaying to every harsh appearance: You are an appearance, and in no\nmanner what you appear to be. Then examine it by the rules which you\npossess, and by this first and chiefly, whether it relates to the\nthings which are in our power or to things which are not in our power;\nand if it relates to anything which is not in our power, be ready to\nsay that it does not concern you.",
+        "surrounding_passage": "Of things some are in our power, and others are not. In our power are\nopinion ([Greek: hupolaepsis]), movement towards a thing ([Greek:\nhormae]), desire, aversion ([Greek: echchlisis]), turning from a thing;\nand in a word, whatever are our acts. Not in our power are the body,\nproperty, reputation, offices (magisterial power), and in a word,\nwhatever are not our own acts. And the things in our power are by\nnature free, not subject to restraint or hindrance; but the things not\nin our power are weak, slavish, subject to restraint, in the power of\nothers. Remember then, that if you think the things which are by nature\nslavish to be free, and the things which are in the power of others to\nbe your own, you will be hindered, you will lament, you will be\ndisturbed, you will blame both gods and men; but if you think that only\nwhich is your own to be your own, and if you think that what is\nanother\u2019s, as it really is, belongs to another, no man will ever compel\nyou, no man will hinder you, you will never blame any man, you will\naccuse no man, you will do nothing involuntarily (against your will),\nno man will harm you, you will have no enemy, for you will not suffer\nany harm.\n\nIf then you desire (aim at) such great things remember that you must\nnot (attempt to) lay hold of them with a small effort; but you must\nleave alone some things entirely, and postpone others for the present.\nBut if you wish for these things also (such great things), and power\n(office) and wealth, perhaps you will not gain even these very things\n(power and wealth) because you aim also at those former things (such\ngreat things); certainly you will fail in those things through which\nalone happiness and freedom are secured. Straightway then practise\nsaying to every harsh appearance: You are an appearance, and in no\nmanner what you appear to be. Then examine it by the rules which you\npossess, and by this first and chiefly, whether it relates to the\nthings which are in our power or to things which are not in our power;\nand if it relates to anything which is not in our power, be ready to\nsay that it does not concern you.",
+        "author": "Epictetus",
+        "title": "The Encheiridion",
+        "translator": "George Long",
+        "edition": "A Selection from the Discourses with the Encheiridion; George Long (d. 1879), Gutenberg 10661",
+        "source_url": "https://www.gutenberg.org/ebooks/10661",
+        "section_number": 1,
+        "reference": "Section I"
+      }
+    ]
+  }
+}

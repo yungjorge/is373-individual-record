@@ -1,0 +1,651 @@
+{
+  "health": {
+    "status": "ok",
+    "demo_mode": true,
+    "embedding_provider": "openai",
+    "generation_provider": "openai",
+    "chat_model": "gpt-4.1-mini",
+    "corpus_version": "semantic-v1",
+    "debug_enabled": true
+  },
+  "scenario": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend?",
+  "followup": "How can I stay fair to my colleague while preparing for my next opportunity?",
+  "first": {
+    "summary": "The Stoics would advise you to focus on what is truly within your control—your own actions, choices, and character—rather than external outcomes like promotions that depend on factors beyond you. They encourage accepting what happens calmly and without resentment, understanding that desiring things not in your power leads to unnecessary distress. They also prompt reflection on whether the things sought (like status or wealth) are truly worthy of your desire, suggesting that freedom and tranquility come from freeing oneself of excessive desire rather than acquisition. Instead of envying others, rejoice if what they obtained is genuinely good and await your opportunities patiently, holding on to your integrity throughout.",
+    "selected_passage_ids": [
+      "enchiridion-long:XXV",
+      "enchiridion-long:XV",
+      "discourses-long:heading-54:part3"
+    ],
+    "explanations": [
+      {
+        "passage_id": "enchiridion-long:XXV",
+        "interpretation": "This passage highlights that honors or positions are often obtained by those willing to pay the social price, such as flattery or attention, which you might not be willing to give. If you do not engage in those social maneuvers, it is not unjust to miss out. The Stoics thus suggest recognizing the conditions under which external goods are awarded and understanding that not obtaining them does not diminish your worth."
+      },
+      {
+        "passage_id": "enchiridion-long:XV",
+        "interpretation": "Life is likened to a banquet where some things come to you in turn and others do not. You should accept with dignity what comes your way and not aggressively grasp or resent what passes you by. This attitude helps cultivate patience and equanimity regarding desires and external achievements, such as a promotion."
+      },
+      {
+        "passage_id": "discourses-long:heading-54:part3",
+        "interpretation": "This section advises transferring your effort from seeking external things that do not guarantee true freedom to cultivating an inner opinion and perspective that brings genuine liberation from desire. It warns that possession of external goods does not ensure happiness or tranquility, and true freedom is achieved by removing desire for them."
+      }
+    ],
+    "practical_applications": [
+      "Reflect on which parts of the situation you can control (your effort, attitude, integrity) and accept what is outside your control (the decision of others).",
+      "Practice mentally reframing the promotion as something neutral; whether you get it or not is not a measure of your worth or virtue.",
+      "Focus on cultivating freedom from excessive desire for external recognition by spending time with inspiring readings or discussions that emphasize virtue and inner growth rather than status.",
+      "Exercise patience by imagining life as a banquet and waiting calmly for opportunities; do not rush or resent what is passed over or delayed."
+    ],
+    "reflection_question": "How might shifting your focus from external rewards to your own virtues and choices reduce feelings of jealousy and frustration in this situation?",
+    "citations": [
+      {
+        "passage_id": "enchiridion-long:XXV",
+        "quote_text": "Has any man been preferred before you at a banquet, or in being\nsaluted, or in being invited to a consultation? If these things are\ngood, you ought to rejoice that he has obtained them; but if bad, be\nnot grieved because you have not obtained them. And remember that you\ncannot, if you do not the same things in order to obtain what is not in\nour own power, be considered worthy of the same (equal) things. For how\ncan a man obtain an equal share with another when he does not visit a\nman’s doors as that other man does; when he does not attend him when he\ngoes abroad, as the other man does; when he does not praise (flatter)\nhim as another does? You will be unjust then and insatiable, if you do\nnot part with the price, in return for which those things are sold, and\nif you wish to obtain them for nothing. Well, what is the price of\nlettuces? An obolus perhaps. ",
+        "surrounding_passage": "Has any man been preferred before you at a banquet, or in being\nsaluted, or in being invited to a consultation? If these things are\ngood, you ought to rejoice that he has obtained them; but if bad, be\nnot grieved because you have not obtained them. And remember that you\ncannot, if you do not the same things in order to obtain what is not in\nour own power, be considered worthy of the same (equal) things. For how\ncan a man obtain an equal share with another when he does not visit a\nman’s doors as that other man does; when he does not attend him when he\ngoes abroad, as the other man does; when he does not praise (flatter)\nhim as another does? You will be unjust then and insatiable, if you do\nnot part with the price, in return for which those things are sold, and\nif you wish to obtain them for nothing. Well, what is the price of\nlettuces? An obolus perhaps. If then a man gives up the obolus, and\nreceives the lettuces, and if you do not give up the obolus and do not\nobtain the lettuces, do not suppose that you receive less than he who\nhas got the lettuces; for as he has the lettuces, so you have the\nobolus which you did not give. In the same way then in the other matter\nalso you have not been invited to a man’s feast, for you did not give\nto the host the price at which the supper is sold; but he sells it for\npraise (flattery), he sells it for personal attention. Give then the\nprice, if it is for your interest, for which it is sold. But if you\nwish both not to give the price and to obtain the things, you are\ninsatiable and silly. Have you nothing then in place of the supper? You\nhave indeed, you have the not flattering of him, whom you did not\nchoose to flatter; you have the not enduring of the man when he enters\nthe room.",
+        "author": "Epictetus",
+        "work": "enchiridion",
+        "title": "The Encheiridion",
+        "translator": "George Long",
+        "edition": "A Selection from the Discourses with the Encheiridion; George Long (d. 1879), Gutenberg 10661",
+        "source_url": "https://www.gutenberg.org/ebooks/10661",
+        "book_number": null,
+        "chapter_number": null,
+        "section_number": 25,
+        "letter_number": null,
+        "semantic_topics": [],
+        "document_id": "enchiridion-long",
+        "corpus_version": "semantic-v1",
+        "unit_start": 0,
+        "unit_end": 1746,
+        "reference": "Section XXV"
+      },
+      {
+        "passage_id": "enchiridion-long:XV",
+        "quote_text": "Remember that in life you ought to behave as at a banquet. Suppose that\nsomething is carried round and is opposite to you. Stretch out your\nhand and take a portion with decency. Suppose that it passes by you. Do\nnot detain it. Suppose that it is not yet come to you. Do not send your\ndesire forward to it, but wait till it is opposite to you. Do so with\nrespect to children, so with respect to a wife, so with respect to\nmagisterial offices, so with respect to wealth, and you will be some\ntime a worthy partner of the banquets of the gods. But if you take none\nof the things which are set before you, and even despise them, then you\nwill be not only a fellow banqueter with the gods, but also a partner\nwith them in power. For by acting thus Diogenes and Heracleitus and\nthose like them were deservedly divine, and were so called.",
+        "surrounding_passage": "Remember that in life you ought to behave as at a banquet. Suppose that\nsomething is carried round and is opposite to you. Stretch out your\nhand and take a portion with decency. Suppose that it passes by you. Do\nnot detain it. Suppose that it is not yet come to you. Do not send your\ndesire forward to it, but wait till it is opposite to you. Do so with\nrespect to children, so with respect to a wife, so with respect to\nmagisterial offices, so with respect to wealth, and you will be some\ntime a worthy partner of the banquets of the gods. But if you take none\nof the things which are set before you, and even despise them, then you\nwill be not only a fellow banqueter with the gods, but also a partner\nwith them in power. For by acting thus Diogenes and Heracleitus and\nthose like them were deservedly divine, and were so called.",
+        "author": "Epictetus",
+        "work": "enchiridion",
+        "title": "The Encheiridion",
+        "translator": "George Long",
+        "edition": "A Selection from the Discourses with the Encheiridion; George Long (d. 1879), Gutenberg 10661",
+        "source_url": "https://www.gutenberg.org/ebooks/10661",
+        "book_number": null,
+        "chapter_number": null,
+        "section_number": 15,
+        "letter_number": null,
+        "semantic_topics": [],
+        "document_id": "enchiridion-long",
+        "corpus_version": "semantic-v1",
+        "unit_start": 0,
+        "unit_end": 831,
+        "reference": "Section XV"
+      },
+      {
+        "passage_id": "discourses-long:heading-54:part3",
+        "quote_text": "For you will know by experience that the words are\ntrue, and that there is no profit from the things which are valued and\neagerly sought to those who have obtained them; and to those who have\nnot yet obtained them there is an imagination ([Greek: phantasia]),\nthat when these things are come, all that is good will come with them;\nthen, when they are come, the feverish feeling is the same, the tossing\nto and fro is the same, the satiety, the desire of things, which are\nnot present; for freedom is acquired not by the full possession of the\nthings which are desired, but by removing the desire. And that you may\nknow that this is true, as you have labored for those things, so\ntransfer your labor to these: be vigilant for the purpose of acquiring\nan opinion which will make you free; pay court to a philosopher instead\nof to a rich old man; be seen about a philosopher’s doors; you will not\ndisgrace yourself by being seen; you will not go away empty nor without\nprofit, if you go to the philosopher as you ought, and if not (if you\ndo not succeed), try at least; the trial (attempt) is not disgraceful.",
+        "surrounding_passage": "His true parents indeed, the gods, and\nhis real country he would never have deserted, nor would he have\nyielded to any man in obedience to them and to their orders, nor would\nany man have died for his country more readily. For he was not used to\ninquire when he should be considered to have done anything on behalf of\nthe whole of things (the universe, or all the world), but he remembered\nthat everything which is done comes from thence and is done on behalf\nof that country and is commanded by him who administers it. Therefore\nsee what Diogenes himself says and writes: “For this reason,” he says,\n“Diogenes, it is in your power to speak both with the King of the\nPersians and with Archidamus the King of the Lacedaemonians, as you\nplease.” Was it because he was born of free parents? I suppose all the\nAthenians and all the Lacedaemonians, because they were born of slaves,\ncould not talk with them (these kings) as they wished, but feared and\npaid court to them. Why then does he say that it is in his power?\nBecause I do not consider the poor body to be my own, because I want\nnothing, because law is everything to me, and nothing else is. These\nwere the things which permitted him to be free.\n\nThink of these things, these opinions, these words; look to these\nexamples, if you would be free, if you desire the thing according to\nits worth. And what is the wonder if you buy so great a thing at the\nprice of things so many and so great? For the sake of this which is\ncalled liberty, some hang themselves, others throw themselves down\nprecipices, and sometimes even whole cities have perished; and will you\nnot for the sake of the true and unassailable and secure liberty give\nback to God when he demands them the things which he has given? Will\nyou not, as Plato says, study not to die only, but also to endure\ntorture, and exile, and scourging, and, in a word, to give up all which\nis not your own? If you will not, you will be a slave among slaves,\neven if you be ten thousand times a consul; and if you make your way up\nto the palace (Cæsar’s residence), you will no less be a slave; and you\nwill feel that perhaps philosophers utter words which are contrary to\ncommon opinion (paradoxes), as Cleanthes also said, but not words\ncontrary to reason. For you will know by experience that the words are\ntrue, and that there is no profit from the things which are valued and\neagerly sought to those who have obtained them; and to those who have\nnot yet obtained them there is an imagination ([Greek: phantasia]),\nthat when these things are come, all that is good will come with them;\nthen, when they are come, the feverish feeling is the same, the tossing\nto and fro is the same, the satiety, the desire of things, which are\nnot present; for freedom is acquired not by the full possession of the\nthings which are desired, but by removing the desire. And that you may\nknow that this is true, as you have labored for those things, so\ntransfer your labor to these: be vigilant for the purpose of acquiring\nan opinion which will make you free; pay court to a philosopher instead\nof to a rich old man; be seen about a philosopher’s doors; you will not\ndisgrace yourself by being seen; you will not go away empty nor without\nprofit, if you go to the philosopher as you ought, and if not (if you\ndo not succeed), try at least; the trial (attempt) is not disgraceful.",
+        "author": "Epictetus",
+        "work": "discourses",
+        "title": "Selections from the Discourses",
+        "translator": "George Long",
+        "edition": "George Long (d. 1879); Gutenberg 10661; named selections, no original book/chapter mapping asserted",
+        "source_url": "https://www.gutenberg.org/ebooks/10661",
+        "book_number": null,
+        "chapter_number": null,
+        "section_number": null,
+        "letter_number": null,
+        "semantic_topics": [],
+        "document_id": "discourses-long",
+        "corpus_version": "semantic-v1",
+        "unit_start": 10278,
+        "unit_end": 13641,
+        "heading": "ABOUT FREEDOM",
+        "reference": "About Freedom"
+      }
+    ],
+    "debug": {
+      "expanded_query": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend? better wealth honor envy honour preference supper price",
+      "strategies": [
+        "dense"
+      ],
+      "timing_ms": 383.93,
+      "candidates": [
+        {
+          "chunk_id": "a94b3871-9ac8-577e-aaa9-5e6f8edadc10",
+          "dense_score": 0.53126574,
+          "bm25_score": null,
+          "rrf_score": 0.01639344262295082,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "77667cf0-815b-5b12-a213-e90e0948d6d1",
+          "dense_score": 0.46429,
+          "bm25_score": null,
+          "rrf_score": 0.016129032258064516,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "1dff87fe-7bae-54ae-8c07-87b6f349367d",
+          "dense_score": 0.45675433,
+          "bm25_score": null,
+          "rrf_score": 0.015873015873015872,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "42d2cc3f-8e19-5e6a-8c8b-49ecec080109",
+          "dense_score": 0.4514649,
+          "bm25_score": null,
+          "rrf_score": 0.015625,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "287ad2a3-d1a3-5b67-b568-f4f4f670d499",
+          "dense_score": 0.45035377,
+          "bm25_score": null,
+          "rrf_score": 0.015384615384615385,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "b3387ce9-69a5-5646-b907-f987a6893843",
+          "dense_score": 0.44931608,
+          "bm25_score": null,
+          "rrf_score": 0.015151515151515152,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "c90091ef-e648-5004-93ec-b5e2f5785866",
+          "dense_score": 0.44756114,
+          "bm25_score": null,
+          "rrf_score": 0.014925373134328358,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "bcad9229-4c11-5f90-8d31-da009a75d615",
+          "dense_score": 0.44172424,
+          "bm25_score": null,
+          "rrf_score": 0.014705882352941176,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "dd240cf3-a459-58e4-8f41-85205b8c77b9",
+          "dense_score": 0.43448868,
+          "bm25_score": null,
+          "rrf_score": 0.014492753623188406,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "278934e6-5053-56b9-9ed5-7d634a267ce0",
+          "dense_score": 0.42613652,
+          "bm25_score": null,
+          "rrf_score": 0.014285714285714285,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "ab894c9c-6d98-5583-8361-7542def760d5",
+          "dense_score": 0.4239946,
+          "bm25_score": null,
+          "rrf_score": 0.014084507042253521,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "53b7e5fe-91b4-5ebf-be54-c61af4587eb8",
+          "dense_score": 0.4235608,
+          "bm25_score": null,
+          "rrf_score": 0.013888888888888888,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "296db7b1-194d-55ed-af40-af6bfb0db583",
+          "dense_score": 0.42284,
+          "bm25_score": null,
+          "rrf_score": 0.0136986301369863,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "31a0a3e7-4a1a-59e0-8f3a-fc717d2b7e43",
+          "dense_score": 0.422292,
+          "bm25_score": null,
+          "rrf_score": 0.013513513513513514,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "ff8e29f6-9cfc-5ba9-8835-5469a13af360",
+          "dense_score": 0.4212744,
+          "bm25_score": null,
+          "rrf_score": 0.013333333333333334,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "d8e23b50-a0bd-5dfd-89b3-9c4f24437633",
+          "dense_score": 0.41699308,
+          "bm25_score": null,
+          "rrf_score": 0.013157894736842105,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "49f60a12-a659-5ada-8816-2c193abe8c62",
+          "dense_score": 0.41544604,
+          "bm25_score": null,
+          "rrf_score": 0.012987012987012988,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "493eb72b-eef6-5460-9f9b-e557294ae8f7",
+          "dense_score": 0.41482902,
+          "bm25_score": null,
+          "rrf_score": 0.01282051282051282,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "50bd247d-294f-54d2-a9fa-43c8ec0a94a6",
+          "dense_score": 0.4111426,
+          "bm25_score": null,
+          "rrf_score": 0.012658227848101266,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "55149af6-bed3-5bcc-b927-552ed2313b5f",
+          "dense_score": 0.41062403,
+          "bm25_score": null,
+          "rrf_score": 0.0125,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "2cd6a9eb-8c1b-5452-83c9-e3aa236f4ee3",
+          "dense_score": 0.40380526,
+          "bm25_score": null,
+          "rrf_score": 0.012345679012345678,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "e6ff3232-725a-5540-a215-e6ca311474eb",
+          "dense_score": 0.40269768,
+          "bm25_score": null,
+          "rrf_score": 0.012195121951219513,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "2d99c126-c4f5-5518-8ec2-9cda863301ff",
+          "dense_score": 0.39968365,
+          "bm25_score": null,
+          "rrf_score": 0.012048192771084338,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "1e8b8fd7-83ec-56f3-9e5b-f7bd912c4410",
+          "dense_score": 0.39887267,
+          "bm25_score": null,
+          "rrf_score": 0.011904761904761904,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "101d56b2-d077-5969-bf73-a40fcaa03ff5",
+          "dense_score": 0.39621764,
+          "bm25_score": null,
+          "rrf_score": 0.011764705882352941,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "c13e3248-0e67-538d-af19-2923e1a1d06c",
+          "dense_score": 0.39551076,
+          "bm25_score": null,
+          "rrf_score": 0.011627906976744186,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "0e0f581a-c0ad-5d01-a0e4-d77ed576f9a1",
+          "dense_score": 0.39491922,
+          "bm25_score": null,
+          "rrf_score": 0.011494252873563218,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "3db4b247-32ad-5697-9899-cf702f62f793",
+          "dense_score": 0.39434272,
+          "bm25_score": null,
+          "rrf_score": 0.011363636363636364,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "048a2800-f544-5b4f-b65f-3be7b51af044",
+          "dense_score": 0.39115086,
+          "bm25_score": null,
+          "rrf_score": 0.011235955056179775,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "6e064093-6ecd-5819-92d1-f7a86b22b5bd",
+          "dense_score": 0.39062515,
+          "bm25_score": null,
+          "rrf_score": 0.011111111111111112,
+          "rerank_score": null
+        }
+      ],
+      "original_query": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend?",
+      "rewritten_query": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend?",
+      "retrieved_passage_ids": [
+        "enchiridion-long:XXV",
+        "enchiridion-long:XV",
+        "discourses-long:heading-53",
+        "discourses-long:heading-54:part3",
+        "enchiridion-long:XXIV"
+      ],
+      "generation_ms": 6847.51,
+      "total_ms": 7237.21,
+      "usage": {
+        "model": "gpt-4.1-mini",
+        "input_tokens": 4894,
+        "output_tokens": 565,
+        "estimated_cost": 0.0028616
+      }
+    },
+    "mode": "openai"
+  },
+  "second": {
+    "summary": "To remain fair to your colleague while preparing for your next opportunity, focus on your own integrity and actions rather than envying others or trying to obtain outcomes by unfair means. Recognize that external rewards like promotions often depend on factors beyond your control, and do not resent others for their success if it was earned by different efforts. Instead, accept what happens as part of the natural order, and maintain your virtue and dignity by not engaging in insincere behavior such as flattery. Waiting patiently for your opportunity, without pushing desire prematurely, and finding contentment in your own principled behavior helps you stay fair and steady.",
+    "selected_passage_ids": [
+      "enchiridion-long:XXV",
+      "enchiridion-long:XV"
+    ],
+    "explanations": [
+      {
+        "passage_id": "enchiridion-long:XXV",
+        "interpretation": "The passage explains that honor and recognition that are not entirely within personal control require corresponding efforts to obtain them, which might include social acts like flattery others employ. Refusing to engage in such acts means you pay a different price — your integrity. Thus, it is fair to accept not receiving rewards that would require sacrificing your principles."
+      },
+      {
+        "passage_id": "enchiridion-long:XV",
+        "interpretation": "Life and opportunities should be accepted as they naturally come, without excessive desire or trying to force outcomes. This teaches patience and moderation, suggesting that waiting calmly for what is legitimately offered helps maintain fairness and inner peace while preparing for your next steps."
+      }
+    ],
+    "practical_applications": [
+      "Reflect on maintaining integrity instead of seeking advancement through insincere behavior.",
+      "Practice patience by accepting opportunities only when they present themselves naturally.",
+      "Use feelings of envy as reminders to focus on your own virtues rather than external rewards.",
+      "Concentrate on steady self-improvement and ethical conduct over uncontrollable outcomes."
+    ],
+    "reflection_question": "How can you cultivate patience and uphold fairness in your relations even when others advance before you?",
+    "citations": [
+      {
+        "passage_id": "enchiridion-long:XXV",
+        "quote_text": "Has any man been preferred before you at a banquet, or in being\nsaluted, or in being invited to a consultation? If these things are\ngood, you ought to rejoice that he has obtained them; but if bad, be\nnot grieved because you have not obtained them. And remember that you\ncannot, if you do not the same things in order to obtain what is not in\nour own power, be considered worthy of the same (equal) things. For how\ncan a man obtain an equal share with another when he does not visit a\nman’s doors as that other man does; when he does not attend him when he\ngoes abroad, as the other man does; when he does not praise (flatter)\nhim as another does? You will be unjust then and insatiable, if you do\nnot part with the price, in return for which those things are sold, and\nif you wish to obtain them for nothing. Well, what is the price of\nlettuces? An obolus perhaps. ",
+        "surrounding_passage": "Has any man been preferred before you at a banquet, or in being\nsaluted, or in being invited to a consultation? If these things are\ngood, you ought to rejoice that he has obtained them; but if bad, be\nnot grieved because you have not obtained them. And remember that you\ncannot, if you do not the same things in order to obtain what is not in\nour own power, be considered worthy of the same (equal) things. For how\ncan a man obtain an equal share with another when he does not visit a\nman’s doors as that other man does; when he does not attend him when he\ngoes abroad, as the other man does; when he does not praise (flatter)\nhim as another does? You will be unjust then and insatiable, if you do\nnot part with the price, in return for which those things are sold, and\nif you wish to obtain them for nothing. Well, what is the price of\nlettuces? An obolus perhaps. If then a man gives up the obolus, and\nreceives the lettuces, and if you do not give up the obolus and do not\nobtain the lettuces, do not suppose that you receive less than he who\nhas got the lettuces; for as he has the lettuces, so you have the\nobolus which you did not give. In the same way then in the other matter\nalso you have not been invited to a man’s feast, for you did not give\nto the host the price at which the supper is sold; but he sells it for\npraise (flattery), he sells it for personal attention. Give then the\nprice, if it is for your interest, for which it is sold. But if you\nwish both not to give the price and to obtain the things, you are\ninsatiable and silly. Have you nothing then in place of the supper? You\nhave indeed, you have the not flattering of him, whom you did not\nchoose to flatter; you have the not enduring of the man when he enters\nthe room.",
+        "author": "Epictetus",
+        "work": "enchiridion",
+        "title": "The Encheiridion",
+        "translator": "George Long",
+        "edition": "A Selection from the Discourses with the Encheiridion; George Long (d. 1879), Gutenberg 10661",
+        "source_url": "https://www.gutenberg.org/ebooks/10661",
+        "book_number": null,
+        "chapter_number": null,
+        "section_number": 25,
+        "letter_number": null,
+        "semantic_topics": [],
+        "document_id": "enchiridion-long",
+        "corpus_version": "semantic-v1",
+        "unit_start": 0,
+        "unit_end": 1746,
+        "reference": "Section XXV"
+      },
+      {
+        "passage_id": "enchiridion-long:XV",
+        "quote_text": "Remember that in life you ought to behave as at a banquet. Suppose that\nsomething is carried round and is opposite to you. Stretch out your\nhand and take a portion with decency. Suppose that it passes by you. Do\nnot detain it. Suppose that it is not yet come to you. Do not send your\ndesire forward to it, but wait till it is opposite to you. Do so with\nrespect to children, so with respect to a wife, so with respect to\nmagisterial offices, so with respect to wealth, and you will be some\ntime a worthy partner of the banquets of the gods. But if you take none\nof the things which are set before you, and even despise them, then you\nwill be not only a fellow banqueter with the gods, but also a partner\nwith them in power. For by acting thus Diogenes and Heracleitus and\nthose like them were deservedly divine, and were so called.",
+        "surrounding_passage": "Remember that in life you ought to behave as at a banquet. Suppose that\nsomething is carried round and is opposite to you. Stretch out your\nhand and take a portion with decency. Suppose that it passes by you. Do\nnot detain it. Suppose that it is not yet come to you. Do not send your\ndesire forward to it, but wait till it is opposite to you. Do so with\nrespect to children, so with respect to a wife, so with respect to\nmagisterial offices, so with respect to wealth, and you will be some\ntime a worthy partner of the banquets of the gods. But if you take none\nof the things which are set before you, and even despise them, then you\nwill be not only a fellow banqueter with the gods, but also a partner\nwith them in power. For by acting thus Diogenes and Heracleitus and\nthose like them were deservedly divine, and were so called.",
+        "author": "Epictetus",
+        "work": "enchiridion",
+        "title": "The Encheiridion",
+        "translator": "George Long",
+        "edition": "A Selection from the Discourses with the Encheiridion; George Long (d. 1879), Gutenberg 10661",
+        "source_url": "https://www.gutenberg.org/ebooks/10661",
+        "book_number": null,
+        "chapter_number": null,
+        "section_number": 15,
+        "letter_number": null,
+        "semantic_topics": [],
+        "document_id": "enchiridion-long",
+        "corpus_version": "semantic-v1",
+        "unit_start": 0,
+        "unit_end": 831,
+        "reference": "Section XV"
+      }
+    ],
+    "debug": {
+      "expanded_query": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend? How can I stay fair to my colleague while preparing for my next opportunity? better wealth honor envy honour preference supper price",
+      "strategies": [
+        "dense"
+      ],
+      "timing_ms": 967.09,
+      "candidates": [
+        {
+          "chunk_id": "a94b3871-9ac8-577e-aaa9-5e6f8edadc10",
+          "dense_score": 0.5332402,
+          "bm25_score": null,
+          "rrf_score": 0.01639344262295082,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "77667cf0-815b-5b12-a213-e90e0948d6d1",
+          "dense_score": 0.48089564,
+          "bm25_score": null,
+          "rrf_score": 0.016129032258064516,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "c90091ef-e648-5004-93ec-b5e2f5785866",
+          "dense_score": 0.47123754,
+          "bm25_score": null,
+          "rrf_score": 0.015873015873015872,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "b3387ce9-69a5-5646-b907-f987a6893843",
+          "dense_score": 0.4701354,
+          "bm25_score": null,
+          "rrf_score": 0.015625,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "bcad9229-4c11-5f90-8d31-da009a75d615",
+          "dense_score": 0.46680632,
+          "bm25_score": null,
+          "rrf_score": 0.015384615384615385,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "42d2cc3f-8e19-5e6a-8c8b-49ecec080109",
+          "dense_score": 0.4648574,
+          "bm25_score": null,
+          "rrf_score": 0.015151515151515152,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "dd240cf3-a459-58e4-8f41-85205b8c77b9",
+          "dense_score": 0.4557553,
+          "bm25_score": null,
+          "rrf_score": 0.014925373134328358,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "287ad2a3-d1a3-5b67-b568-f4f4f670d499",
+          "dense_score": 0.45337033,
+          "bm25_score": null,
+          "rrf_score": 0.014705882352941176,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "278934e6-5053-56b9-9ed5-7d634a267ce0",
+          "dense_score": 0.45181867,
+          "bm25_score": null,
+          "rrf_score": 0.014492753623188406,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "53b7e5fe-91b4-5ebf-be54-c61af4587eb8",
+          "dense_score": 0.4486387,
+          "bm25_score": null,
+          "rrf_score": 0.014285714285714285,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "1dff87fe-7bae-54ae-8c07-87b6f349367d",
+          "dense_score": 0.44460332,
+          "bm25_score": null,
+          "rrf_score": 0.014084507042253521,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "31a0a3e7-4a1a-59e0-8f3a-fc717d2b7e43",
+          "dense_score": 0.4445159,
+          "bm25_score": null,
+          "rrf_score": 0.013888888888888888,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "ab894c9c-6d98-5583-8361-7542def760d5",
+          "dense_score": 0.44347233,
+          "bm25_score": null,
+          "rrf_score": 0.0136986301369863,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "d8e23b50-a0bd-5dfd-89b3-9c4f24437633",
+          "dense_score": 0.44194618,
+          "bm25_score": null,
+          "rrf_score": 0.013513513513513514,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "c13e3248-0e67-538d-af19-2923e1a1d06c",
+          "dense_score": 0.44118714,
+          "bm25_score": null,
+          "rrf_score": 0.013333333333333334,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "3db4b247-32ad-5697-9899-cf702f62f793",
+          "dense_score": 0.43695796,
+          "bm25_score": null,
+          "rrf_score": 0.013157894736842105,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "50bd247d-294f-54d2-a9fa-43c8ec0a94a6",
+          "dense_score": 0.4332429,
+          "bm25_score": null,
+          "rrf_score": 0.012987012987012988,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "7d2f2513-3f64-52c9-84fb-caf996e622ef",
+          "dense_score": 0.42720836,
+          "bm25_score": null,
+          "rrf_score": 0.01282051282051282,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "296db7b1-194d-55ed-af40-af6bfb0db583",
+          "dense_score": 0.42686164,
+          "bm25_score": null,
+          "rrf_score": 0.012658227848101266,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "e6ff3232-725a-5540-a215-e6ca311474eb",
+          "dense_score": 0.42576557,
+          "bm25_score": null,
+          "rrf_score": 0.0125,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "2cd6a9eb-8c1b-5452-83c9-e3aa236f4ee3",
+          "dense_score": 0.42283148,
+          "bm25_score": null,
+          "rrf_score": 0.012345679012345678,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "3f75e844-9a7c-5a2b-9c00-591580fd6e5b",
+          "dense_score": 0.42173448,
+          "bm25_score": null,
+          "rrf_score": 0.012195121951219513,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "b3c49211-7543-5b43-8407-f3034e311aab",
+          "dense_score": 0.4183187,
+          "bm25_score": null,
+          "rrf_score": 0.012048192771084338,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "e5e6b237-d14a-5a62-ad8b-789a58f482fb",
+          "dense_score": 0.41511887,
+          "bm25_score": null,
+          "rrf_score": 0.011904761904761904,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "55149af6-bed3-5bcc-b927-552ed2313b5f",
+          "dense_score": 0.41390592,
+          "bm25_score": null,
+          "rrf_score": 0.011764705882352941,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "6084b1ed-c05a-5f54-bcdb-fdb107b14096",
+          "dense_score": 0.4134503,
+          "bm25_score": null,
+          "rrf_score": 0.011627906976744186,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "ff8e29f6-9cfc-5ba9-8835-5469a13af360",
+          "dense_score": 0.412926,
+          "bm25_score": null,
+          "rrf_score": 0.011494252873563218,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "493eb72b-eef6-5460-9f9b-e557294ae8f7",
+          "dense_score": 0.41172194,
+          "bm25_score": null,
+          "rrf_score": 0.011363636363636364,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "49f60a12-a659-5ada-8816-2c193abe8c62",
+          "dense_score": 0.41004145,
+          "bm25_score": null,
+          "rrf_score": 0.011235955056179775,
+          "rerank_score": null
+        },
+        {
+          "chunk_id": "048a2800-f544-5b4f-b65f-3be7b51af044",
+          "dense_score": 0.40723,
+          "bm25_score": null,
+          "rrf_score": 0.011111111111111112,
+          "rerank_score": null
+        }
+      ],
+      "original_query": "How can I stay fair to my colleague while preparing for my next opportunity?",
+      "rewritten_query": "I worked extremely hard for a promotion, but another employee got it. I feel jealous and like my work was wasted. What would the Stoics recommend? How can I stay fair to my colleague while preparing for my next opportunity?",
+      "retrieved_passage_ids": [
+        "enchiridion-long:XXV",
+        "enchiridion-long:XV",
+        "discourses-long:heading-15",
+        "discourses-long:heading-49",
+        "discourses-long:heading-57:part2"
+      ],
+      "generation_ms": 6594.75,
+      "total_ms": 7565.63,
+      "usage": {
+        "model": "gpt-4.1-mini",
+        "input_tokens": 10958,
+        "output_tokens": 867,
+        "estimated_cost": 0.005770399999999999
+      }
+    },
+    "mode": "openai"
+  },
+  "verified": true
+}

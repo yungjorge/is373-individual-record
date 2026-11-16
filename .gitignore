@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+.next-e2e/
+.pytest_cache/
+.ruff_cache/
+*.tsbuildinfo
+*.log
+playwright-report/
+test-results/
+test-results-live/
+projects/stoic-companion/backend/data/

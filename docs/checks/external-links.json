@@ -1,0 +1,151 @@
+{
+  "checked_at_utc": "2026-11-16T03:23:45.063226+00:00",
+  "method": "GET, redirects followed, 15 second timeout; availability only",
+  "results": [
+    {
+      "url": "https://104-248-208-29.nip.io",
+      "status": 200,
+      "final_url": "https://104-248-208-29.nip.io"
+    },
+    {
+      "url": "https://amazon.jobs/en/jobs/10564107/business-intelligence-engineer-studios-analytics",
+      "status": 200,
+      "final_url": "https://amazon.jobs/en/jobs/10564107/business-intelligence-engineer-studios-analytics"
+    },
+    {
+      "url": "https://arxiv.org/abs/2005.11401",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2005.11401"
+    },
+    {
+      "url": "https://github.com/asg017/sqlite-vec",
+      "status": 200,
+      "final_url": "https://github.com/asg017/sqlite-vec"
+    },
+    {
+      "url": "https://github.com/pb392/is373-individual-record",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373-individual-record"
+    },
+    {
+      "url": "https://github.com/pb392/is373-individual-record/blob/378ce760face9e46d515e0a37f13b952770d20f7/README.md",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373-individual-record/blob/378ce760face9e46d515e0a37f13b952770d20f7/README.md"
+    },
+    {
+      "url": "https://github.com/pb392/is373-individual-record/blob/378ce760face9e46d515e0a37f13b952770d20f7/docs/notes/S3-note-01-meta-overview.md",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373-individual-record/blob/378ce760face9e46d515e0a37f13b952770d20f7/docs/notes/S3-note-01-meta-overview.md"
+    },
+    {
+      "url": "https://github.com/pb392/is373-individual-record/blob/378ce760face9e46d515e0a37f13b952770d20f7/docs/notes/S3-note-02-archetype-bosses.md",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373-individual-record/blob/378ce760face9e46d515e0a37f13b952770d20f7/docs/notes/S3-note-02-archetype-bosses.md"
+    },
+    {
+      "url": "https://github.com/pb392/is373-individual-record/issues/1",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373-individual-record/issues/1"
+    },
+    {
+      "url": "https://github.com/pb392/is373-individual-record/tree/378ce760face9e46d515e0a37f13b952770d20f7",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373-individual-record/tree/378ce760face9e46d515e0a37f13b952770d20f7"
+    },
+    {
+      "url": "https://github.com/pb392/is373_ci_cd",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373_ci_cd"
+    },
+    {
+      "url": "https://github.com/pb392/is373_ci_cd/blob/main/.github/workflows/ci.yml",
+      "status": 200,
+      "final_url": "https://github.com/pb392/is373_ci_cd/blob/main/.github/workflows/ci.yml"
+    },
+    {
+      "url": "https://github.com/pb392/my-app-studio",
+      "status": 200,
+      "final_url": "https://github.com/pb392/my-app-studio"
+    },
+    {
+      "url": "https://github.com/pgvector/pgvector",
+      "status": 200,
+      "final_url": "https://github.com/pgvector/pgvector"
+    },
+    {
+      "url": "https://github.com/yungjorge/is373-individual-record",
+      "status": 200,
+      "final_url": "https://github.com/yungjorge/is373-individual-record"
+    },
+    {
+      "url": "https://github.com/yungjorge/is373-practical-test",
+      "status": 200,
+      "final_url": "https://github.com/yungjorge/is373-practical-test"
+    },
+    {
+      "url": "https://github.com/yungjorge/is373-practical-test/blob/main/.github/workflows/deploy.yml",
+      "status": 200,
+      "final_url": "https://github.com/yungjorge/is373-practical-test/blob/main/.github/workflows/deploy.yml"
+    },
+    {
+      "url": "https://github.com/yungjorge/my-app-studio",
+      "status": 200,
+      "final_url": "https://github.com/yungjorge/my-app-studio"
+    },
+    {
+      "url": "https://github.com/yungjorge/my-server-studio",
+      "status": 200,
+      "final_url": "https://github.com/yungjorge/my-server-studio"
+    },
+    {
+      "url": "https://neo4j.com/docs/getting-started/graph-database/",
+      "status": 200,
+      "final_url": "https://neo4j.com/docs/getting-started/graph-database/"
+    },
+    {
+      "url": "https://njit.instructure.com/courses/70733/files?preview=10598448",
+      "status": 200,
+      "final_url": "https://login.njit.edu/app/njit_canvaslms_2/exk1yq1pps5Y1vfTG1d8/sso/saml"
+    },
+    {
+      "url": "https://qdrant.tech/documentation/concepts/search/",
+      "status": 200,
+      "final_url": "https://qdrant.tech/documentation/concepts/search/"
+    },
+    {
+      "url": "https://www.citylit.ac.uk/media/wysiwyg/Junior_Power_Platform_Developer_JD_Jan_2026_1.pdf",
+      "status": 200,
+      "final_url": "https://www.citylit.ac.uk/media/wysiwyg/Junior_Power_Platform_Developer_JD_Jan_2026_1.pdf"
+    },
+    {
+      "url": "https://www.epicgames.com/site/careers/jobs/6200355004?lang=en-US",
+      "status": 403,
+      "final_url": "https://www.epicgames.com/site/careers/jobs/6200355004?lang=en-US"
+    },
+    {
+      "url": "https://www.gutenberg.org/ebooks/10661",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/ebooks/10661"
+    },
+    {
+      "url": "https://www.postgresql.org/docs/current/textsearch-intro.html",
+      "status": 200,
+      "final_url": "https://www.postgresql.org/docs/current/textsearch-intro.html"
+    },
+    {
+      "url": "https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html",
+      "status": 200,
+      "final_url": "https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html"
+    },
+    {
+      "url": "https://www.sqlite.org/fts5.html",
+      "status": 200,
+      "final_url": "https://www.sqlite.org/fts5.html"
+    },
+    {
+      "url": "https://www.version1.com/en-us/careers/job-listings/power-platform-developer-ref7108v/",
+      "status": 200,
+      "final_url": "https://www.version1.com/en-us/careers/job-listings/power-platform-developer-ref7108v/"
+    }
+  ]
+}

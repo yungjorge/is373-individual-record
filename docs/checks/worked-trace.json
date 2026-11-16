@@ -1,0 +1,56 @@
+{
+  "execution": "offline demo vectors; no model-generated answer or paid API call",
+  "import": {
+    "source": "enchiridion-long",
+    "status": "indexed",
+    "units": 52,
+    "chunks": 66
+  },
+  "validation": {
+    "validated_chunks": 66,
+    "checksums": "verified"
+  },
+  "source_id": "enchiridion-long",
+  "source_checksum": "7915eac7442daed1fbc461b8a281ecc315c5e619126d50d914c29c39fa3b2209",
+  "ingestion_signature": "0b5a58650e848a21c9b93b5f457b409afe25426c4c4a109dc2ff851480b05308",
+  "passage_id": "enchiridion-long:I",
+  "chunk_id": "26fc987d-5221-5f76-83c5-7a49761fed61",
+  "offsets": [
+    0,
+    558
+  ],
+  "supporting_chunk": "Of things some are in our power, and others are not. In our power are\nopinion ([Greek: hupolaepsis]), movement towards a thing ([Greek:\nhormae]), desire, aversion ([Greek: echchlisis]), turning from a thing;\nand in a word, whatever are our acts. Not in our power are the body,\nproperty, reputation, offices (magisterial power), and in a word,\nwhatever are not our own acts. And the things in our power are by\nnature free, not subject to restraint or hindrance; but the things not\nin our power are weak, slavish, subject to restraint, in the power of\nothers. ",
+  "source_metadata": {
+    "id": "enchiridion-long",
+    "work": "enchiridion",
+    "title": "The Encheiridion",
+    "author": "Epictetus",
+    "translator": "George Long",
+    "edition": "A Selection from the Discourses with the Encheiridion; George Long (d. 1879), Gutenberg 10661",
+    "publication_information": "A Selection from the Discourses with the Encheiridion; George Long (d. 1879), Gutenberg 10661",
+    "language": "en",
+    "source_url": "https://www.gutenberg.org/ebooks/10661",
+    "download_url": "https://www.gutenberg.org/ebooks/10661.txt.utf-8",
+    "filename": "10661.txt",
+    "parser": "text",
+    "source_checksum": "7915eac7442daed1fbc461b8a281ecc315c5e619126d50d914c29c39fa3b2209",
+    "ingestion_status": "approved",
+    "rights_justification": "Project Gutenberg catalog marks this edition public domain in USA; translation published before 1931. Check local laws outside USA.",
+    "verified_date": "2026-11-12"
+  },
+  "retrieved_passage_ids": [
+    "enchiridion-long:I",
+    "enchiridion-long:XXXII",
+    "enchiridion-long:II",
+    "enchiridion-long:XXXI",
+    "enchiridion-long:XV"
+  ],
+  "expected_passage_retrieved": true,
+  "strategies": [
+    "dense",
+    "BM25",
+    "RRF",
+    "lexical-overlap-rerank"
+  ],
+  "illustrative_interpretation_not_model_output": "Focus on your own judgments and actions, while distinguishing external circumstances."
+}

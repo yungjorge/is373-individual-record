@@ -1,0 +1,2592 @@
+[
+  {
+    "strategy": "fixed",
+    "mode": "dense",
+    "rerank": false,
+    "embedding_provider": "demo",
+    "rows": [
+      {
+        "id": "q01",
+        "recall_at_5": 1.0,
+        "mrr": 0.3333333333333333,
+        "retrieval_ms": 30.78,
+        "answer_ms": 1.181,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:II",
+          "discourses-long:heading-18",
+          "enchiridion-long:I",
+          "discourses-long:heading-54",
+          "discourses-long:heading-62"
+        ]
+      },
+      {
+        "id": "q02",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 25.75,
+        "answer_ms": 0.345,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-56",
+          "discourses-long:heading-51",
+          "meditations-casaubon:8.XLVIII",
+          "meditations-casaubon:9.XIV",
+          "enchiridion-long:XXXIII"
+        ]
+      },
+      {
+        "id": "q03",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 23.69,
+        "answer_ms": 0.188,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.VIII",
+          "meditations-casaubon:5.XXV",
+          "meditations-casaubon:8.XLIX",
+          "meditations-casaubon:6.VI",
+          "meditations-casaubon:6.XXIX"
+        ]
+      },
+      {
+        "id": "q04",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 25.14,
+        "answer_ms": 0.203,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:5.XIV",
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:10.XXI",
+          "meditations-casaubon:2.XIV",
+          "meditations-casaubon:6.XXXVII"
+        ]
+      },
+      {
+        "id": "q05",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.62,
+        "answer_ms": 0.317,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "discourses-long:heading-54",
+          "meditations-casaubon:4.XVII",
+          "meditations-casaubon:9.XXI",
+          "discourses-long:heading-60"
+        ]
+      },
+      {
+        "id": "q06",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.95,
+        "answer_ms": 0.2,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXXII",
+          "meditations-casaubon:8.XLV",
+          "enchiridion-long:XXIV",
+          "meditations-casaubon:8.XLI"
+        ]
+      },
+      {
+        "id": "q07",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.83,
+        "answer_ms": 0.212,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-16",
+          "letters-gummere-63:63.14",
+          "discourses-long:heading-35"
+        ]
+      },
+      {
+        "id": "q08",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.3,
+        "answer_ms": 0.331,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-54",
+          "discourses-long:heading-16",
+          "discourses-long:heading-25",
+          "enchiridion-long:XXXII",
+          "discourses-long:heading-19"
+        ]
+      },
+      {
+        "id": "q09",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.82,
+        "answer_ms": 0.297,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXIX",
+          "discourses-long:heading-48",
+          "meditations-casaubon:4.XVII",
+          "meditations-casaubon:4.XXXIX",
+          "enchiridion-long:L"
+        ]
+      },
+      {
+        "id": "q10",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.56,
+        "answer_ms": 0.322,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-6",
+          "discourses-long:heading-36",
+          "meditations-casaubon:6.XLIX",
+          "meditations-casaubon:8.XVII",
+          "enchiridion-long:XXV"
+        ]
+      },
+      {
+        "id": "q11",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.16,
+        "answer_ms": 0.3,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVII",
+          "discourses-long:heading-33",
+          "discourses-long:heading-16",
+          "discourses-long:heading-46",
+          "meditations-casaubon:7.IV"
+        ]
+      },
+      {
+        "id": "q12",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.09,
+        "answer_ms": 0.504,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:II",
+          "discourses-long:heading-54",
+          "discourses-long:heading-48",
+          "enchiridion-long:I",
+          "meditations-casaubon:6.XLVII"
+        ]
+      },
+      {
+        "id": "q13",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 46.45,
+        "answer_ms": 0.171,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:6.XXXII",
+          "discourses-long:heading-49",
+          "discourses-long:heading-43",
+          "meditations-casaubon:7.XVII"
+        ]
+      },
+      {
+        "id": "q14",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.68,
+        "answer_ms": 0.18,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:6.XXXIII",
+          "meditations-casaubon:7.XL",
+          "meditations-casaubon:11.VII",
+          "discourses-long:heading-51",
+          "enchiridion-long:L"
+        ]
+      },
+      {
+        "id": "q15",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.42,
+        "answer_ms": 0.392,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-36",
+          "letters-gummere-63:63.13",
+          "discourses-long:heading-1",
+          "discourses-long:heading-47",
+          "meditations-casaubon:6.V"
+        ]
+      },
+      {
+        "id": "q16",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.16,
+        "answer_ms": 0.205,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:IX",
+          "meditations-casaubon:9.XLI",
+          "meditations-casaubon:2.XII",
+          "letters-gummere-13:13.3",
+          "meditations-casaubon:7.XI"
+        ]
+      },
+      {
+        "id": "q17",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 33.13,
+        "answer_ms": 0.174,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:12.XXVI",
+          "meditations-casaubon:12.X",
+          "meditations-casaubon:12.IV",
+          "meditations-casaubon:9.XIII",
+          "meditations-casaubon:4.XXV"
+        ]
+      },
+      {
+        "id": "q18",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.31,
+        "answer_ms": 0.214,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XIII",
+          "meditations-casaubon:6.VII",
+          "meditations-casaubon:9.XXIII",
+          "meditations-casaubon:6.I",
+          "discourses-long:heading-55"
+        ]
+      },
+      {
+        "id": "q19",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 33.08,
+        "answer_ms": 0.375,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-1:1.2",
+          "enchiridion-long:XXXII",
+          "discourses-long:heading-19",
+          "letters-gummere-63:63.14",
+          "discourses-long:heading-16"
+        ]
+      },
+      {
+        "id": "q20",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 37.02,
+        "answer_ms": 0.225,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XL",
+          "meditations-casaubon:5.XXVII",
+          "meditations-casaubon:10.XXVIII",
+          "enchiridion-long:XXII",
+          "meditations-casaubon:11.VII"
+        ]
+      },
+      {
+        "id": "q21",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 126.61,
+        "answer_ms": 0.186,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:4.VII",
+          "meditations-casaubon:8.LI",
+          "meditations-casaubon:12.III",
+          "meditations-casaubon:9.IV",
+          "meditations-casaubon:9.XXXII"
+        ]
+      },
+      {
+        "id": "q22",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.06,
+        "answer_ms": 0.222,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.I",
+          "meditations-casaubon:3.I",
+          "enchiridion-long:XXXI",
+          "meditations-casaubon:10.XVIII",
+          "meditations-casaubon:8.XXXII"
+        ]
+      },
+      {
+        "id": "q23",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.81,
+        "answer_ms": 0.209,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XXVI",
+          "letters-gummere-13:13.15",
+          "meditations-casaubon:9.XXXVI",
+          "meditations-casaubon:12.XVI",
+          "meditations-casaubon:11.XI"
+        ]
+      },
+      {
+        "id": "q24",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.68,
+        "answer_ms": 0.27,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-16",
+          "meditations-casaubon:1.IV",
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:8.LVI",
+          "meditations-casaubon:6.XXV"
+        ]
+      },
+      {
+        "id": "q25",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.82,
+        "answer_ms": 0.326,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:II",
+          "discourses-long:heading-54",
+          "discourses-long:heading-18",
+          "enchiridion-long:I",
+          "meditations-casaubon:6.XLVII"
+        ]
+      },
+      {
+        "id": "q26",
+        "recall_at_5": 1.0,
+        "mrr": 1.0,
+        "retrieval_ms": 29.61,
+        "answer_ms": 0.32,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXV",
+          "discourses-long:heading-54",
+          "meditations-casaubon:11.XXVIII",
+          "meditations-casaubon:11.XXXI",
+          "discourses-long:heading-25"
+        ]
+      },
+      {
+        "id": "q27",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 27.93,
+        "answer_ms": 0.348,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:12.IV",
+          "meditations-casaubon:8.XVIII",
+          "meditations-casaubon:9.XXI",
+          "enchiridion-long:XXXII",
+          "meditations-casaubon:5.VI"
+        ]
+      },
+      {
+        "id": "q28",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.52,
+        "answer_ms": 0.259,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-33",
+          "meditations-casaubon:8.XLIII",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-1",
+          "meditations-casaubon:12.X"
+        ]
+      },
+      {
+        "id": "q29",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.02,
+        "answer_ms": 0.199,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVI",
+          "discourses-long:heading-43",
+          "meditations-casaubon:4.XVI",
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:7.XI"
+        ]
+      },
+      {
+        "id": "q30",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.09,
+        "answer_ms": 0.194,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-13:13.1",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-15",
+          "discourses-long:heading-43",
+          "enchiridion-long:XXI"
+        ]
+      }
+    ]
+  },
+  {
+    "strategy": "recursive",
+    "mode": "dense",
+    "rerank": false,
+    "embedding_provider": "demo",
+    "rows": [
+      {
+        "id": "q01",
+        "recall_at_5": 1.0,
+        "mrr": 0.3333333333333333,
+        "retrieval_ms": 37.09,
+        "answer_ms": 1.239,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-18",
+          "enchiridion-long:II",
+          "enchiridion-long:I",
+          "discourses-long:heading-54",
+          "discourses-long:heading-62"
+        ]
+      },
+      {
+        "id": "q02",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 32.59,
+        "answer_ms": 0.306,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-56",
+          "discourses-long:heading-64",
+          "discourses-long:heading-51",
+          "meditations-casaubon:8.XLVIII",
+          "meditations-casaubon:9.XIV"
+        ]
+      },
+      {
+        "id": "q03",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 32.09,
+        "answer_ms": 0.196,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.VIII",
+          "meditations-casaubon:5.XXV",
+          "meditations-casaubon:8.XLIX",
+          "meditations-casaubon:6.VI",
+          "meditations-casaubon:6.XXIX"
+        ]
+      },
+      {
+        "id": "q04",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.26,
+        "answer_ms": 0.271,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:5.XIV",
+          "meditations-casaubon:10.XXI",
+          "meditations-casaubon:6.XXXVII",
+          "meditations-casaubon:2.XIV"
+        ]
+      },
+      {
+        "id": "q05",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 38.44,
+        "answer_ms": 0.366,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "discourses-long:heading-54",
+          "meditations-casaubon:9.XXI",
+          "meditations-casaubon:4.XVII",
+          "meditations-casaubon:8.XI"
+        ]
+      },
+      {
+        "id": "q06",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 33.48,
+        "answer_ms": 0.284,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXXII",
+          "discourses-long:heading-57",
+          "meditations-casaubon:8.XLV",
+          "enchiridion-long:XXIV"
+        ]
+      },
+      {
+        "id": "q07",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.79,
+        "answer_ms": 0.333,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.10",
+          "letters-gummere-63:63.14",
+          "discourses-long:heading-50",
+          "discourses-long:heading-16"
+        ]
+      },
+      {
+        "id": "q08",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.74,
+        "answer_ms": 0.716,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-54",
+          "discourses-long:heading-19",
+          "enchiridion-long:XXXII",
+          "discourses-long:heading-16",
+          "enchiridion-long:XXI"
+        ]
+      },
+      {
+        "id": "q09",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 32.23,
+        "answer_ms": 0.213,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXIX",
+          "enchiridion-long:L",
+          "meditations-casaubon:4.XXVII",
+          "meditations-casaubon:4.XXXIX",
+          "meditations-casaubon:4.XVII"
+        ]
+      },
+      {
+        "id": "q10",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 33.6,
+        "answer_ms": 0.388,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-6",
+          "discourses-long:heading-36",
+          "meditations-casaubon:6.XLIX",
+          "discourses-long:heading-47",
+          "meditations-casaubon:8.XVII"
+        ]
+      },
+      {
+        "id": "q11",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 36.43,
+        "answer_ms": 1.022,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVII",
+          "discourses-long:heading-33",
+          "meditations-casaubon:7.IV",
+          "discourses-long:heading-46",
+          "discourses-long:heading-16"
+        ]
+      },
+      {
+        "id": "q12",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 33.73,
+        "answer_ms": 0.295,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:I",
+          "enchiridion-long:II",
+          "discourses-long:heading-54",
+          "discourses-long:heading-54",
+          "discourses-long:heading-48"
+        ]
+      },
+      {
+        "id": "q13",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.69,
+        "answer_ms": 0.194,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:6.XXXII",
+          "discourses-long:heading-49",
+          "discourses-long:heading-43",
+          "meditations-casaubon:7.XVII"
+        ]
+      },
+      {
+        "id": "q14",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 32.97,
+        "answer_ms": 0.223,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XL",
+          "meditations-casaubon:6.XXXIII",
+          "meditations-casaubon:11.VII",
+          "enchiridion-long:L",
+          "discourses-long:heading-60"
+        ]
+      },
+      {
+        "id": "q15",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.69,
+        "answer_ms": 0.319,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-36",
+          "discourses-long:heading-47",
+          "letters-gummere-63:63.13",
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:6.V"
+        ]
+      },
+      {
+        "id": "q16",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.05,
+        "answer_ms": 0.197,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:IX",
+          "meditations-casaubon:2.XII",
+          "letters-gummere-13:13.3",
+          "meditations-casaubon:2.XV",
+          "meditations-casaubon:7.XI"
+        ]
+      },
+      {
+        "id": "q17",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.43,
+        "answer_ms": 0.156,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:12.XXVI",
+          "meditations-casaubon:12.X",
+          "meditations-casaubon:9.XIII",
+          "meditations-casaubon:11.XVIII",
+          "meditations-casaubon:4.XXV"
+        ]
+      },
+      {
+        "id": "q18",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 32.01,
+        "answer_ms": 0.218,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XIII",
+          "meditations-casaubon:6.VII",
+          "discourses-long:heading-23",
+          "meditations-casaubon:9.XXIII",
+          "meditations-casaubon:6.I"
+        ]
+      },
+      {
+        "id": "q19",
+        "recall_at_5": 1.0,
+        "mrr": 0.2,
+        "retrieval_ms": 33.58,
+        "answer_ms": 0.317,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-1:1.2",
+          "discourses-long:heading-19",
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.14",
+          "enchiridion-long:XXI"
+        ]
+      },
+      {
+        "id": "q20",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.98,
+        "answer_ms": 0.193,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XL",
+          "meditations-casaubon:5.XXVII",
+          "meditations-casaubon:10.XXVIII",
+          "enchiridion-long:XXII",
+          "meditations-casaubon:11.VII"
+        ]
+      },
+      {
+        "id": "q21",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 154.26,
+        "answer_ms": 0.264,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:4.VII",
+          "meditations-casaubon:8.LI",
+          "meditations-casaubon:12.III",
+          "meditations-casaubon:9.IV",
+          "meditations-casaubon:9.XXXII"
+        ]
+      },
+      {
+        "id": "q22",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 36.21,
+        "answer_ms": 0.214,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.I",
+          "meditations-casaubon:10.XVIII",
+          "discourses-long:heading-50",
+          "discourses-long:heading-51",
+          "meditations-casaubon:3.IV"
+        ]
+      },
+      {
+        "id": "q23",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 32.88,
+        "answer_ms": 0.181,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-13:13.15",
+          "meditations-casaubon:9.XXXVI",
+          "meditations-casaubon:1.XIV",
+          "meditations-casaubon:12.XVI",
+          "meditations-casaubon:11.XI"
+        ]
+      },
+      {
+        "id": "q24",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 34.55,
+        "answer_ms": 0.306,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-16",
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:3.VII",
+          "meditations-casaubon:8.LVI",
+          "meditations-casaubon:6.XXV"
+        ]
+      },
+      {
+        "id": "q25",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 35.12,
+        "answer_ms": 0.467,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:II",
+          "enchiridion-long:I",
+          "discourses-long:heading-62",
+          "discourses-long:heading-54",
+          "discourses-long:heading-49"
+        ]
+      },
+      {
+        "id": "q26",
+        "recall_at_5": 1.0,
+        "mrr": 0.25,
+        "retrieval_ms": 34.17,
+        "answer_ms": 0.321,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXVIII",
+          "discourses-long:heading-54",
+          "meditations-casaubon:11.XXXI",
+          "enchiridion-long:XXV",
+          "discourses-long:heading-31"
+        ]
+      },
+      {
+        "id": "q27",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 34.03,
+        "answer_ms": 0.193,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:8.XVIII",
+          "meditations-casaubon:9.XXI",
+          "meditations-casaubon:7.XXVI",
+          "discourses-long:heading-42",
+          "enchiridion-long:XXXII"
+        ]
+      },
+      {
+        "id": "q28",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.87,
+        "answer_ms": 0.174,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:8.XLIII",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-1",
+          "meditations-casaubon:12.X",
+          "meditations-casaubon:6.XLVIII"
+        ]
+      },
+      {
+        "id": "q29",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.51,
+        "answer_ms": 0.212,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVI",
+          "discourses-long:heading-43",
+          "meditations-casaubon:4.XVI",
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:7.XI"
+        ]
+      },
+      {
+        "id": "q30",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 32.58,
+        "answer_ms": 0.238,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-13:13.1",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-15",
+          "discourses-long:heading-43",
+          "enchiridion-long:XXI"
+        ]
+      }
+    ]
+  },
+  {
+    "strategy": "structure",
+    "mode": "dense",
+    "rerank": false,
+    "embedding_provider": "demo",
+    "rows": [
+      {
+        "id": "q01",
+        "recall_at_5": 1.0,
+        "mrr": 0.3333333333333333,
+        "retrieval_ms": 39.49,
+        "answer_ms": 1.047,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-18",
+          "enchiridion-long:II",
+          "enchiridion-long:I",
+          "discourses-long:heading-54",
+          "discourses-long:heading-62"
+        ]
+      },
+      {
+        "id": "q02",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.7,
+        "answer_ms": 0.301,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-56",
+          "discourses-long:heading-64",
+          "discourses-long:heading-51",
+          "meditations-casaubon:8.XLVIII",
+          "meditations-casaubon:9.XIV"
+        ]
+      },
+      {
+        "id": "q03",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 27.33,
+        "answer_ms": 0.189,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.VIII",
+          "meditations-casaubon:5.XXV",
+          "meditations-casaubon:8.XLIX",
+          "meditations-casaubon:6.VI",
+          "meditations-casaubon:6.XXIX"
+        ]
+      },
+      {
+        "id": "q04",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.45,
+        "answer_ms": 0.208,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:5.XIV",
+          "meditations-casaubon:10.XXI",
+          "meditations-casaubon:6.XXXVII",
+          "meditations-casaubon:2.XIV"
+        ]
+      },
+      {
+        "id": "q05",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.19,
+        "answer_ms": 0.321,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "discourses-long:heading-54",
+          "meditations-casaubon:9.XXI",
+          "meditations-casaubon:4.XVII",
+          "meditations-casaubon:8.XI"
+        ]
+      },
+      {
+        "id": "q06",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.67,
+        "answer_ms": 0.24,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXXII",
+          "discourses-long:heading-57",
+          "meditations-casaubon:8.XLV",
+          "enchiridion-long:XXIV"
+        ]
+      },
+      {
+        "id": "q07",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.84,
+        "answer_ms": 0.208,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.10",
+          "letters-gummere-63:63.14",
+          "discourses-long:heading-50",
+          "discourses-long:heading-16"
+        ]
+      },
+      {
+        "id": "q08",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.28,
+        "answer_ms": 0.374,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-54",
+          "discourses-long:heading-19",
+          "enchiridion-long:XXXII",
+          "discourses-long:heading-16",
+          "enchiridion-long:XXI"
+        ]
+      },
+      {
+        "id": "q09",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 25.45,
+        "answer_ms": 0.289,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXIX",
+          "enchiridion-long:L",
+          "meditations-casaubon:4.XXVII",
+          "meditations-casaubon:4.XXXIX",
+          "meditations-casaubon:4.XVII"
+        ]
+      },
+      {
+        "id": "q10",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.96,
+        "answer_ms": 0.624,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-6",
+          "discourses-long:heading-36",
+          "meditations-casaubon:6.XLIX",
+          "discourses-long:heading-47",
+          "meditations-casaubon:8.XVII"
+        ]
+      },
+      {
+        "id": "q11",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 26.1,
+        "answer_ms": 0.245,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVII",
+          "discourses-long:heading-33",
+          "meditations-casaubon:7.IV",
+          "discourses-long:heading-46",
+          "discourses-long:heading-16"
+        ]
+      },
+      {
+        "id": "q12",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.4,
+        "answer_ms": 0.243,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:I",
+          "enchiridion-long:II",
+          "discourses-long:heading-54",
+          "discourses-long:heading-54",
+          "discourses-long:heading-48"
+        ]
+      },
+      {
+        "id": "q13",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 27.64,
+        "answer_ms": 0.195,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:6.XXXII",
+          "discourses-long:heading-49",
+          "discourses-long:heading-43",
+          "meditations-casaubon:7.XVII"
+        ]
+      },
+      {
+        "id": "q14",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 28.63,
+        "answer_ms": 0.173,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XL",
+          "meditations-casaubon:6.XXXIII",
+          "meditations-casaubon:11.VII",
+          "enchiridion-long:L",
+          "discourses-long:heading-60"
+        ]
+      },
+      {
+        "id": "q15",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.11,
+        "answer_ms": 0.546,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-36",
+          "discourses-long:heading-47",
+          "letters-gummere-63:63.13",
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:6.V"
+        ]
+      },
+      {
+        "id": "q16",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 35.78,
+        "answer_ms": 0.238,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:IX",
+          "meditations-casaubon:2.XII",
+          "letters-gummere-13:13.3",
+          "meditations-casaubon:2.XV",
+          "meditations-casaubon:7.XI"
+        ]
+      },
+      {
+        "id": "q17",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 35.2,
+        "answer_ms": 0.187,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:12.XXVI",
+          "meditations-casaubon:12.X",
+          "meditations-casaubon:9.XIII",
+          "meditations-casaubon:11.XVIII",
+          "meditations-casaubon:4.XXV"
+        ]
+      },
+      {
+        "id": "q18",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.76,
+        "answer_ms": 0.192,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XIII",
+          "meditations-casaubon:6.VII",
+          "discourses-long:heading-23",
+          "meditations-casaubon:9.XXIII",
+          "meditations-casaubon:6.I"
+        ]
+      },
+      {
+        "id": "q19",
+        "recall_at_5": 1.0,
+        "mrr": 0.2,
+        "retrieval_ms": 28.22,
+        "answer_ms": 0.3,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-1:1.2",
+          "discourses-long:heading-19",
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.14",
+          "enchiridion-long:XXI"
+        ]
+      },
+      {
+        "id": "q20",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.13,
+        "answer_ms": 0.184,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XL",
+          "meditations-casaubon:5.XXVII",
+          "meditations-casaubon:10.XXVIII",
+          "enchiridion-long:XXII",
+          "meditations-casaubon:11.VII"
+        ]
+      },
+      {
+        "id": "q21",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 117.84,
+        "answer_ms": 0.183,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:4.VII",
+          "meditations-casaubon:8.LI",
+          "meditations-casaubon:12.III",
+          "meditations-casaubon:9.IV",
+          "meditations-casaubon:9.XXXII"
+        ]
+      },
+      {
+        "id": "q22",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.5,
+        "answer_ms": 0.226,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.I",
+          "meditations-casaubon:10.XVIII",
+          "discourses-long:heading-50",
+          "discourses-long:heading-51",
+          "meditations-casaubon:3.IV"
+        ]
+      },
+      {
+        "id": "q23",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.5,
+        "answer_ms": 0.18,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-13:13.15",
+          "meditations-casaubon:9.XXXVI",
+          "meditations-casaubon:1.XIV",
+          "meditations-casaubon:12.XVI",
+          "meditations-casaubon:11.XI"
+        ]
+      },
+      {
+        "id": "q24",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 31.84,
+        "answer_ms": 0.314,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-16",
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:3.VII",
+          "meditations-casaubon:8.LVI",
+          "meditations-casaubon:6.XXV"
+        ]
+      },
+      {
+        "id": "q25",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 35.54,
+        "answer_ms": 0.296,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:II",
+          "enchiridion-long:I",
+          "discourses-long:heading-62",
+          "discourses-long:heading-54",
+          "discourses-long:heading-49"
+        ]
+      },
+      {
+        "id": "q26",
+        "recall_at_5": 1.0,
+        "mrr": 0.25,
+        "retrieval_ms": 31.0,
+        "answer_ms": 0.385,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXVIII",
+          "discourses-long:heading-54",
+          "meditations-casaubon:11.XXXI",
+          "enchiridion-long:XXV",
+          "discourses-long:heading-31"
+        ]
+      },
+      {
+        "id": "q27",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 30.75,
+        "answer_ms": 0.182,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:8.XVIII",
+          "meditations-casaubon:9.XXI",
+          "meditations-casaubon:7.XXVI",
+          "discourses-long:heading-42",
+          "enchiridion-long:XXXII"
+        ]
+      },
+      {
+        "id": "q28",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 34.84,
+        "answer_ms": 0.221,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:8.XLIII",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-1",
+          "meditations-casaubon:12.X",
+          "meditations-casaubon:6.XLVIII"
+        ]
+      },
+      {
+        "id": "q29",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 46.46,
+        "answer_ms": 0.202,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVI",
+          "discourses-long:heading-43",
+          "meditations-casaubon:4.XVI",
+          "meditations-casaubon:11.XXI",
+          "meditations-casaubon:7.XI"
+        ]
+      },
+      {
+        "id": "q30",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 29.95,
+        "answer_ms": 0.278,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-13:13.1",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-15",
+          "discourses-long:heading-43",
+          "enchiridion-long:XXI"
+        ]
+      }
+    ]
+  },
+  {
+    "strategy": "structure",
+    "mode": "hybrid",
+    "rerank": false,
+    "embedding_provider": "demo",
+    "rows": [
+      {
+        "id": "q01",
+        "recall_at_5": 1.0,
+        "mrr": 0.3333333333333333,
+        "retrieval_ms": 92.39,
+        "answer_ms": 0.954,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-18",
+          "discourses-long:heading-62",
+          "enchiridion-long:I",
+          "discourses-long:heading-28",
+          "discourses-long:heading-54"
+        ]
+      },
+      {
+        "id": "q02",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 85.1,
+        "answer_ms": 0.281,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-64",
+          "discourses-long:heading-56",
+          "meditations-casaubon:8.XXVII",
+          "discourses-long:heading-51",
+          "discourses-long:heading-33"
+        ]
+      },
+      {
+        "id": "q03",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 80.3,
+        "answer_ms": 0.171,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:5.XXV",
+          "meditations-casaubon:5.XVIII",
+          "meditations-casaubon:6.XV",
+          "meditations-casaubon:6.X",
+          "meditations-casaubon:8.I"
+        ]
+      },
+      {
+        "id": "q04",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 81.26,
+        "answer_ms": 0.173,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.IX",
+          "meditations-casaubon:6.XL",
+          "meditations-casaubon:5.XIV",
+          "meditations-casaubon:3.VII",
+          "meditations-casaubon:11.XXI"
+        ]
+      },
+      {
+        "id": "q05",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 81.74,
+        "answer_ms": 0.163,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:1.VIII",
+          "meditations-casaubon:9.IX",
+          "discourses-long:heading-54",
+          "meditations-casaubon:5.XVIII",
+          "meditations-casaubon:3.VII"
+        ]
+      },
+      {
+        "id": "q06",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 79.32,
+        "answer_ms": 0.311,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-57",
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXIV",
+          "discourses-long:heading-35"
+        ]
+      },
+      {
+        "id": "q07",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 88.5,
+        "answer_ms": 0.23,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.10",
+          "letters-gummere-63:63.14",
+          "discourses-long:heading-35",
+          "letters-gummere-63:63.1"
+        ]
+      },
+      {
+        "id": "q08",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 89.48,
+        "answer_ms": 0.22,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXXII",
+          "discourses-long:heading-25",
+          "letters-gummere-63:63.13",
+          "meditations-casaubon:8.LIV"
+        ]
+      },
+      {
+        "id": "q09",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 82.94,
+        "answer_ms": 0.214,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XXIX",
+          "enchiridion-long:L",
+          "meditations-casaubon:4.XXXIX",
+          "meditations-casaubon:4.XXVII",
+          "meditations-casaubon:5.IX"
+        ]
+      },
+      {
+        "id": "q10",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 85.04,
+        "answer_ms": 0.3,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-54",
+          "discourses-long:heading-47",
+          "enchiridion-long:XXV",
+          "discourses-long:heading-6",
+          "meditations-casaubon:8.XVII"
+        ]
+      },
+      {
+        "id": "q11",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 80.19,
+        "answer_ms": 0.358,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-54",
+          "discourses-long:heading-37",
+          "discourses-long:heading-50",
+          "discourses-long:heading-22",
+          "meditations-casaubon:5.XVI"
+        ]
+      },
+      {
+        "id": "q12",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 83.98,
+        "answer_ms": 0.315,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:I",
+          "discourses-long:heading-54",
+          "enchiridion-long:II",
+          "meditations-casaubon:7.XIII",
+          "discourses-long:heading-19"
+        ]
+      },
+      {
+        "id": "q13",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 79.68,
+        "answer_ms": 0.316,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:3.VII",
+          "discourses-long:heading-40",
+          "meditations-casaubon:11.XXI",
+          "enchiridion-long:XXIV",
+          "meditations-casaubon:6.XXXII"
+        ]
+      },
+      {
+        "id": "q14",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 85.58,
+        "answer_ms": 0.178,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVIII",
+          "meditations-casaubon:12.XII",
+          "discourses-long:heading-51",
+          "meditations-casaubon:2.XV",
+          "discourses-long:heading-31"
+        ]
+      },
+      {
+        "id": "q15",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 82.23,
+        "answer_ms": 0.185,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:6.V",
+          "letters-gummere-63:63.13",
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:8.XXXVI",
+          "discourses-long:heading-47"
+        ]
+      },
+      {
+        "id": "q16",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 83.96,
+        "answer_ms": 0.195,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:8.XXXVI",
+          "meditations-casaubon:2.XII",
+          "enchiridion-long:XXIV",
+          "discourses-long:heading-25",
+          "meditations-casaubon:11.XVI"
+        ]
+      },
+      {
+        "id": "q17",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 168.07,
+        "answer_ms": 0.192,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-42",
+          "meditations-casaubon:4.XXV",
+          "discourses-long:heading-4",
+          "meditations-casaubon:7.XLII",
+          "meditations-casaubon:4.III"
+        ]
+      },
+      {
+        "id": "q18",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 87.78,
+        "answer_ms": 0.31,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:1.XIV",
+          "discourses-long:heading-55",
+          "discourses-long:heading-57",
+          "discourses-long:heading-40",
+          "meditations-casaubon:3.XV"
+        ]
+      },
+      {
+        "id": "q19",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 91.53,
+        "answer_ms": 0.182,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-1:1.2",
+          "letters-gummere-63:63.14",
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXXII",
+          "meditations-casaubon:8.LIV"
+        ]
+      },
+      {
+        "id": "q20",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 81.82,
+        "answer_ms": 0.206,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:5.XXVII",
+          "meditations-casaubon:10.XXVIII",
+          "meditations-casaubon:2.XII",
+          "discourses-long:heading-57",
+          "discourses-long:heading-57"
+        ]
+      },
+      {
+        "id": "q21",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 85.37,
+        "answer_ms": 0.384,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-26",
+          "discourses-long:heading-58",
+          "meditations-casaubon:8.XXVI",
+          "discourses-long:heading-57",
+          "discourses-long:heading-48"
+        ]
+      },
+      {
+        "id": "q22",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 84.69,
+        "answer_ms": 0.33,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.I",
+          "discourses-long:heading-50",
+          "discourses-long:heading-32",
+          "discourses-long:heading-31",
+          "meditations-casaubon:10.XXXVI"
+        ]
+      },
+      {
+        "id": "q23",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 86.19,
+        "answer_ms": 0.302,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:1.XIV",
+          "discourses-long:heading-10",
+          "discourses-long:heading-44",
+          "meditations-casaubon:3.VI",
+          "discourses-long:heading-43"
+        ]
+      },
+      {
+        "id": "q24",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 81.69,
+        "answer_ms": 0.184,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:8.XXXVI",
+          "meditations-casaubon:9.XXII",
+          "meditations-casaubon:3.VII",
+          "meditations-casaubon:8.LVI"
+        ]
+      },
+      {
+        "id": "q25",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 80.84,
+        "answer_ms": 0.516,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:I",
+          "enchiridion-long:II",
+          "discourses-long:heading-18",
+          "meditations-casaubon:7.XIII",
+          "discourses-long:heading-19"
+        ]
+      },
+      {
+        "id": "q26",
+        "recall_at_5": 1.0,
+        "mrr": 1.0,
+        "retrieval_ms": 80.48,
+        "answer_ms": 0.309,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXV",
+          "discourses-long:heading-54",
+          "meditations-casaubon:5.XVIII",
+          "meditations-casaubon:6.XV",
+          "meditations-casaubon:11.XXVIII"
+        ]
+      },
+      {
+        "id": "q27",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 82.29,
+        "answer_ms": 0.295,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-42",
+          "discourses-long:heading-4",
+          "meditations-casaubon:7.XLII",
+          "discourses-long:heading-46",
+          "meditations-casaubon:5.XXVIII"
+        ]
+      },
+      {
+        "id": "q28",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 79.77,
+        "answer_ms": 0.178,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:6.XLVIII",
+          "enchiridion-long:XLV",
+          "discourses-long:heading-51",
+          "letters-gummere-63:63.10",
+          "letters-gummere-1:1.2"
+        ]
+      },
+      {
+        "id": "q29",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 82.73,
+        "answer_ms": 0.246,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-43",
+          "meditations-casaubon:4.XVI",
+          "discourses-long:heading-39",
+          "meditations-casaubon:3.IV",
+          "meditations-casaubon:6.XLVI"
+        ]
+      },
+      {
+        "id": "q30",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 97.83,
+        "answer_ms": 0.197,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:8.XXXVI",
+          "meditations-casaubon:7.XXXIX",
+          "discourses-long:heading-16",
+          "meditations-casaubon:9.XXII",
+          "meditations-casaubon:11.XXIX"
+        ]
+      }
+    ]
+  },
+  {
+    "strategy": "structure",
+    "mode": "hybrid",
+    "rerank": true,
+    "embedding_provider": "demo",
+    "rows": [
+      {
+        "id": "q01",
+        "recall_at_5": 1.0,
+        "mrr": 0.25,
+        "retrieval_ms": 140.49,
+        "answer_ms": 1.294,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-18",
+          "discourses-long:heading-28",
+          "discourses-long:heading-62",
+          "enchiridion-long:I",
+          "discourses-long:heading-54"
+        ]
+      },
+      {
+        "id": "q02",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 123.74,
+        "answer_ms": 0.3,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-56",
+          "meditations-casaubon:8.XXVII",
+          "discourses-long:heading-30",
+          "discourses-long:heading-64",
+          "discourses-long:heading-51"
+        ]
+      },
+      {
+        "id": "q03",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 112.73,
+        "answer_ms": 0.188,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:5.XXV",
+          "meditations-casaubon:5.XVIII",
+          "meditations-casaubon:6.XV",
+          "meditations-casaubon:6.X",
+          "meditations-casaubon:8.I"
+        ]
+      },
+      {
+        "id": "q04",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 115.5,
+        "answer_ms": 0.211,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.IX",
+          "meditations-casaubon:6.XL",
+          "meditations-casaubon:5.XIV",
+          "meditations-casaubon:3.VII",
+          "discourses-long:heading-50"
+        ]
+      },
+      {
+        "id": "q05",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 130.6,
+        "answer_ms": 0.241,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.IX",
+          "meditations-casaubon:1.VIII",
+          "discourses-long:heading-54",
+          "meditations-casaubon:5.XVIII",
+          "meditations-casaubon:3.VII"
+        ]
+      },
+      {
+        "id": "q06",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 146.97,
+        "answer_ms": 0.304,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXIV",
+          "discourses-long:heading-19",
+          "discourses-long:heading-57",
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.10"
+        ]
+      },
+      {
+        "id": "q07",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 130.66,
+        "answer_ms": 0.287,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-63:63.14",
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.10",
+          "discourses-long:heading-35",
+          "discourses-long:heading-23"
+        ]
+      },
+      {
+        "id": "q08",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 131.64,
+        "answer_ms": 0.341,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-25",
+          "letters-gummere-63:63.14",
+          "meditations-casaubon:7.XXII",
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXXII"
+        ]
+      },
+      {
+        "id": "q09",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 128.46,
+        "answer_ms": 0.266,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:5.IX",
+          "meditations-casaubon:5.XVII",
+          "meditations-casaubon:11.XXIX",
+          "enchiridion-long:L",
+          "meditations-casaubon:4.XXXIX"
+        ]
+      },
+      {
+        "id": "q10",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 110.57,
+        "answer_ms": 0.488,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-54",
+          "discourses-long:heading-25",
+          "meditations-casaubon:7.XXXV",
+          "meditations-casaubon:6.XXVII",
+          "discourses-long:heading-47"
+        ]
+      },
+      {
+        "id": "q11",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 116.86,
+        "answer_ms": 2.472,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-54",
+          "discourses-long:heading-37",
+          "discourses-long:heading-50",
+          "discourses-long:heading-22",
+          "meditations-casaubon:5.XVI"
+        ]
+      },
+      {
+        "id": "q12",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 131.42,
+        "answer_ms": 0.34,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:I",
+          "discourses-long:heading-54",
+          "meditations-casaubon:7.XIII",
+          "discourses-long:heading-19",
+          "discourses-long:heading-18"
+        ]
+      },
+      {
+        "id": "q13",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 104.09,
+        "answer_ms": 0.367,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:3.VII",
+          "discourses-long:heading-40",
+          "enchiridion-long:XXIV",
+          "meditations-casaubon:9.IX",
+          "enchiridion-long:I"
+        ]
+      },
+      {
+        "id": "q14",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 114.58,
+        "answer_ms": 0.275,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:9.XXXVIII",
+          "meditations-casaubon:12.XII",
+          "discourses-long:heading-51",
+          "meditations-casaubon:2.XV",
+          "discourses-long:heading-31"
+        ]
+      },
+      {
+        "id": "q15",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 102.53,
+        "answer_ms": 0.191,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:6.V",
+          "letters-gummere-63:63.13",
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:8.XXXVI",
+          "discourses-long:heading-47"
+        ]
+      },
+      {
+        "id": "q16",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 112.61,
+        "answer_ms": 0.332,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.XVI",
+          "meditations-casaubon:8.XXXVI",
+          "meditations-casaubon:2.XII",
+          "enchiridion-long:XXIV",
+          "discourses-long:heading-25"
+        ]
+      },
+      {
+        "id": "q17",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 255.99,
+        "answer_ms": 0.303,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:4.III",
+          "discourses-long:heading-42",
+          "meditations-casaubon:4.XXV",
+          "discourses-long:heading-4",
+          "meditations-casaubon:7.XLII"
+        ]
+      },
+      {
+        "id": "q18",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 117.04,
+        "answer_ms": 0.289,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:3.XV",
+          "meditations-casaubon:1.XIV",
+          "discourses-long:heading-55",
+          "discourses-long:heading-40",
+          "discourses-long:heading-57"
+        ]
+      },
+      {
+        "id": "q19",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 105.17,
+        "answer_ms": 0.207,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "letters-gummere-63:63.14",
+          "letters-gummere-1:1.2",
+          "letters-gummere-63:63.10",
+          "enchiridion-long:XXXII",
+          "letters-gummere-63:63.3"
+        ]
+      },
+      {
+        "id": "q20",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 112.46,
+        "answer_ms": 0.211,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:5.XXVII",
+          "meditations-casaubon:10.XXVIII",
+          "meditations-casaubon:2.XII",
+          "discourses-long:heading-57",
+          "discourses-long:heading-57"
+        ]
+      },
+      {
+        "id": "q21",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 112.73,
+        "answer_ms": 0.477,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-26",
+          "discourses-long:heading-58",
+          "meditations-casaubon:8.XXVI",
+          "meditations-casaubon:6.XXX",
+          "meditations-casaubon:8.XXXIV"
+        ]
+      },
+      {
+        "id": "q22",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 142.01,
+        "answer_ms": 0.536,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:11.I",
+          "discourses-long:heading-50",
+          "discourses-long:heading-32",
+          "discourses-long:heading-31",
+          "meditations-casaubon:10.XXXVI"
+        ]
+      },
+      {
+        "id": "q23",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 131.81,
+        "answer_ms": 0.341,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:1.XIV",
+          "discourses-long:heading-10",
+          "discourses-long:heading-44",
+          "meditations-casaubon:3.VI",
+          "discourses-long:heading-43"
+        ]
+      },
+      {
+        "id": "q24",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 126.3,
+        "answer_ms": 0.222,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:7.XXXIX",
+          "meditations-casaubon:8.XXXVI",
+          "meditations-casaubon:9.XXII",
+          "meditations-casaubon:3.VII",
+          "meditations-casaubon:8.LVI"
+        ]
+      },
+      {
+        "id": "q25",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 120.99,
+        "answer_ms": 0.405,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:I",
+          "discourses-long:heading-18",
+          "meditations-casaubon:7.XIII",
+          "discourses-long:heading-19",
+          "discourses-long:heading-54"
+        ]
+      },
+      {
+        "id": "q26",
+        "recall_at_5": 1.0,
+        "mrr": 1.0,
+        "retrieval_ms": 116.75,
+        "answer_ms": 0.456,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "enchiridion-long:XXV",
+          "discourses-long:heading-54",
+          "meditations-casaubon:5.XVIII",
+          "meditations-casaubon:6.XV",
+          "letters-gummere-13:13.6"
+        ]
+      },
+      {
+        "id": "q27",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 162.0,
+        "answer_ms": 1.006,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-42",
+          "discourses-long:heading-4",
+          "meditations-casaubon:7.XLII",
+          "discourses-long:heading-46",
+          "meditations-casaubon:5.XXVIII"
+        ]
+      },
+      {
+        "id": "q28",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 263.65,
+        "answer_ms": 0.651,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-51",
+          "meditations-casaubon:6.XLVIII",
+          "enchiridion-long:XLV",
+          "letters-gummere-63:63.10",
+          "letters-gummere-1:1.2"
+        ]
+      },
+      {
+        "id": "q29",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 238.12,
+        "answer_ms": 0.331,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "discourses-long:heading-43",
+          "meditations-casaubon:4.XVI",
+          "discourses-long:heading-58",
+          "discourses-long:heading-39",
+          "meditations-casaubon:3.IV"
+        ]
+      },
+      {
+        "id": "q30",
+        "recall_at_5": 0.0,
+        "mrr": 0,
+        "retrieval_ms": 129.97,
+        "answer_ms": 0.332,
+        "citation_validity": true,
+        "quote_verification_rate": 1.0,
+        "estimated_api_cost_usd": 0,
+        "retrieved": [
+          "meditations-casaubon:8.XXXVI",
+          "meditations-casaubon:7.XXXIX",
+          "discourses-long:heading-16",
+          "meditations-casaubon:9.XXII",
+          "meditations-casaubon:11.XXIX"
+        ]
+      }
+    ]
+  }
+]

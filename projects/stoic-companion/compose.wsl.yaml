@@ -1,0 +1,13 @@
+# Share only the model-specific embedding cache with native smoke/evaluation
+# commands; application SQL and Qdrant storage remain persistent named volumes.
+services:
+  ingest:
+    environment:
+      EMBEDDING_CACHE_DIR: /workspace/embedding-cache
+    volumes:
+      - ./backend/data/live-verification/embeddings:/workspace/embedding-cache
+  backend:
+    environment:
+      EMBEDDING_CACHE_DIR: /workspace/embedding-cache
+    volumes:
+      - ./backend/data/live-verification/embeddings:/workspace/embedding-cache

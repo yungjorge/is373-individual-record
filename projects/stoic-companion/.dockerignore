@@ -1,0 +1,13 @@
+.venv
+**/node_modules
+**/.next
+**/.next-e2e
+**/.env*
+!**/.env.example
+**/tsconfig.tsbuildinfo
+backend/data
+.git
+.env
+**/__pycache__
+**/test-results
+**/test-results-live

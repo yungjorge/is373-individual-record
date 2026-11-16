@@ -1,0 +1,314 @@
+[
+  {
+    "id": "q01",
+    "theme": "anxiety",
+    "question": "I feel anxious about things outside my control.",
+    "acceptable_passages": [
+      "enchiridion-long:I"
+    ],
+    "editorial_rationale": "Distinguishes actions and judgments from externals.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q02",
+    "theme": "anxiety",
+    "question": "I keep imagining everything going wrong tomorrow.",
+    "acceptable_passages": [
+      "enchiridion-long:I",
+      "enchiridion-long:VIII"
+    ],
+    "editorial_rationale": "Control and accepting events as they occur.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q03",
+    "theme": "career",
+    "question": "I was passed over for a promotion.",
+    "acceptable_passages": [
+      "enchiridion-long:XIX",
+      "enchiridion-long:XXV"
+    ],
+    "editorial_rationale": "Status and the price of external honors.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q04",
+    "theme": "career",
+    "question": "My job application was rejected and I feel worthless.",
+    "acceptable_passages": [
+      "enchiridion-long:I",
+      "enchiridion-long:XIX"
+    ],
+    "editorial_rationale": "External outcomes do not define agency.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q05",
+    "theme": "jealousy",
+    "question": "I envy my colleague who gets every honor.",
+    "acceptable_passages": [
+      "enchiridion-long:XIX",
+      "enchiridion-long:XXV"
+    ],
+    "editorial_rationale": "Envy of honors and the cost of social preferment.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q06",
+    "theme": "jealousy",
+    "question": "A friend has more money and success than me.",
+    "acceptable_passages": [
+      "enchiridion-long:XLIV"
+    ],
+    "editorial_rationale": "Wealth and eloquence do not entail being a better person.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q07",
+    "theme": "grief",
+    "question": "My friend died and I cannot stop crying.",
+    "acceptable_passages": [
+      "letters-gummere-63:63.1"
+    ],
+    "editorial_rationale": "Seneca explicitly discusses grief for lost friends.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q08",
+    "theme": "grief",
+    "question": "How can I remember someone I have lost?",
+    "acceptable_passages": [
+      "letters-gummere-63:63.4",
+      "letters-gummere-63:63.5"
+    ],
+    "editorial_rationale": "Seneca discusses memory and loss.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q09",
+    "theme": "failure",
+    "question": "I failed an exam after working hard.",
+    "acceptable_passages": [
+      "enchiridion-long:XXIX"
+    ],
+    "editorial_rationale": "Consider the demands of an undertaking and persist.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q10",
+    "theme": "failure",
+    "question": "I made a mistake and want to give up.",
+    "acceptable_passages": [
+      "enchiridion-long:L"
+    ],
+    "editorial_rationale": "Practice and progress require immediate sustained action.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q11",
+    "theme": "relationships",
+    "question": "I am struggling to move on from a relationship.",
+    "acceptable_passages": [
+      "enchiridion-long:XI"
+    ],
+    "editorial_rationale": "Loss and the language of return; interpret cautiously.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q12",
+    "theme": "relationships",
+    "question": "My family expects me to control their emotions.",
+    "acceptable_passages": [
+      "enchiridion-long:XXX"
+    ],
+    "editorial_rationale": "Duties in relationships and control of our own actions.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q13",
+    "theme": "comparison",
+    "question": "I constantly compare myself to others.",
+    "acceptable_passages": [
+      "enchiridion-long:XLIV"
+    ],
+    "editorial_rationale": "Distinguishes possessions and skills from personal worth.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q14",
+    "theme": "comparison",
+    "question": "Everyone else seems further ahead in life.",
+    "acceptable_passages": [
+      "enchiridion-long:XIX",
+      "enchiridion-long:XXV"
+    ],
+    "editorial_rationale": "External honors and different choices.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q15",
+    "theme": "anger",
+    "question": "Someone insulted me and I want revenge.",
+    "acceptable_passages": [
+      "enchiridion-long:XX"
+    ],
+    "editorial_rationale": "Judgment of insults and gaining time before reacting.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q16",
+    "theme": "anger",
+    "question": "I lose my temper when people criticize me.",
+    "acceptable_passages": [
+      "enchiridion-long:XX",
+      "enchiridion-long:XLII"
+    ],
+    "editorial_rationale": "Insults and the perspective of the person acting.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q17",
+    "theme": "discipline",
+    "question": "I keep procrastinating on important goals.",
+    "acceptable_passages": [
+      "enchiridion-long:L"
+    ],
+    "editorial_rationale": "The passage explicitly addresses procrastination.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q18",
+    "theme": "discipline",
+    "question": "I read self help but never practice it.",
+    "acceptable_passages": [
+      "enchiridion-long:XLIX",
+      "enchiridion-long:LI"
+    ],
+    "editorial_rationale": "Interpreting doctrines versus using them.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q19",
+    "theme": "mortality",
+    "question": "I am afraid of dying.",
+    "acceptable_passages": [
+      "enchiridion-long:XXI"
+    ],
+    "editorial_rationale": "Keep death in view without panic.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q20",
+    "theme": "mortality",
+    "question": "How can I remember that life is finite?",
+    "acceptable_passages": [
+      "enchiridion-long:XXI"
+    ],
+    "editorial_rationale": "Reflection on death and loss.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q21",
+    "theme": "uncertainty",
+    "question": "I cannot predict what the future will bring.",
+    "acceptable_passages": [
+      "enchiridion-long:VIII",
+      "enchiridion-long:I"
+    ],
+    "editorial_rationale": "Accept events while identifying agency.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q22",
+    "theme": "uncertainty",
+    "question": "I want certainty before I make any decision.",
+    "acceptable_passages": [
+      "enchiridion-long:XXIX"
+    ],
+    "editorial_rationale": "Consider consequences before choosing a pursuit.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q23",
+    "theme": "validation",
+    "question": "I need everyone to like me.",
+    "acceptable_passages": [
+      "enchiridion-long:XXIII"
+    ],
+    "editorial_rationale": "Seeking approval outside yourself.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q24",
+    "theme": "validation",
+    "question": "How can I handle criticism better?",
+    "acceptable_passages": [
+      "enchiridion-long:XX",
+      "enchiridion-long:XXXIII"
+    ],
+    "editorial_rationale": "Pause at insults and reply without self-defensive status seeking.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q25",
+    "theme": "anxiety",
+    "question": "I worry more about imagined disasters than actual problems.",
+    "acceptable_passages": [
+      "letters-gummere-13:13.4"
+    ],
+    "editorial_rationale": "Seneca distinguishes imagination and reality.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q26",
+    "theme": "career",
+    "question": "I feel ashamed that someone else was invited and I was not.",
+    "acceptable_passages": [
+      "enchiridion-long:XXV"
+    ],
+    "editorial_rationale": "Direct discussion of invitations and their price.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q27",
+    "theme": "discipline",
+    "question": "I start ambitious projects then abandon them.",
+    "acceptable_passages": [
+      "enchiridion-long:XXIX"
+    ],
+    "editorial_rationale": "Weigh prerequisites and consequences before undertaking work.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q28",
+    "theme": "relationships",
+    "question": "A friend speaks badly of me behind my back.",
+    "acceptable_passages": [
+      "enchiridion-long:XXXIII",
+      "enchiridion-long:XLII"
+    ],
+    "editorial_rationale": "Response to criticism and judging others motives.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q29",
+    "theme": "validation",
+    "question": "I feel worthless because people do not praise me.",
+    "acceptable_passages": [
+      "enchiridion-long:XLVIII",
+      "enchiridion-long:XXIII"
+    ],
+    "editorial_rationale": "Progress does not depend on praise or outward approval.",
+    "review_status": "implementation-author review; independent human review pending"
+  },
+  {
+    "id": "q30",
+    "theme": "anger",
+    "question": "How can I pause before reacting to an insult?",
+    "acceptable_passages": [
+      "enchiridion-long:XX"
+    ],
+    "editorial_rationale": "Obtain time before being carried away by appearances.",
+    "review_status": "implementation-author review; independent human review pending"
+  }
+]

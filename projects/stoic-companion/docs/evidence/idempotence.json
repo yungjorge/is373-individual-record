@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "before": {
+    "chunks": 909,
+    "id_digest": "20b2923cd8b461f9f6dbcf529d9d19bf4402611b2892440ef5576c51c91b0f15",
+    "embedding_usage_rows": 24,
+    "vector_points": 909
+  },
+  "after": {
+    "chunks": 909,
+    "id_digest": "20b2923cd8b461f9f6dbcf529d9d19bf4402611b2892440ef5576c51c91b0f15",
+    "embedding_usage_rows": 24,
+    "vector_points": 909
+  },
+  "repeat_embedding_calls": 0
+}
