@@ -20,7 +20,7 @@ Additional completed checks:
 
 - `python scripts/check_docs.py`: 31 Markdown files; all local destinations passed, including heading anchors and the README review index.
 - Prettier 3.6.2 formatted the research Markdown; the CI job checks the same files.
-- Offline browser suite: **4 Playwright tests passed in 36.0 seconds**, desktop and mobile Chromium. The suite exercises reflections, citations, bookmarks, persistence/deletion and missing-evidence behavior. No paid inference was used. The copied `docs/screenshots/desktop.png` and `mobile.png` were refreshed by this real run; historical live screenshots in `docs/evidence` remain distinct.
+- Offline browser suite: **4 Playwright tests passed in 36.0 seconds**, desktop and mobile Chromium. The suite exercises reflections, citations, bookmarks, persistence/deletion, source-library search and author filtering. No paid inference was used. The copied `docs/screenshots/desktop.png` and `mobile.png` were refreshed by this real run; historical live screenshots in `docs/evidence` remain distinct.
 - Full offline ingestion: 567 units and 909 children across six approved sources; both blocked candidates were rejected as intended.
 - External GET observations: 29 distinct linked URLs checked. Existing portfolio returned HTTP 200. Canvas redirected to NJIT login; Epic P2 returned 403. All other requested URLs returned 200, which does not establish their semantic content or current vacancy status. [Raw observations](checks/external-links.json).
 - Secret-pattern scan of the publishable text found no provider/GitHub tokens or private-key blocks. Runtime databases, credentials and dependency directories are excluded from Git.
