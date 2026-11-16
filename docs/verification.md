@@ -31,7 +31,7 @@ Initial source/research commit [`5a0001f`](https://github.com/yungjorge/is373-in
 
 A real Chromium browser loaded the public GitHub repository with HTTP 200, found the README title and Research Review Index table, and followed Career research to the intended document/anchor. [Browser observations](checks/github-browser.json) and [actual README capture](checks/github-readme.png) preserve that check. The capture was also visually inspected; no rendering failure was found in the index.
 
-The verification follow-up pins Ubuntu 24.04 and current action release commit SHAs to remove the initial run's Node 20/moving-runner warnings. Release tags/SHAs were read directly from GitHub's official action repositories. PR checks must pass before merging this follow-up.
+The [verification follow-up PR #1](https://github.com/yungjorge/is373-individual-record/pull/1) pins Ubuntu 24.04 and current action release commit SHAs to remove the initial run's Node 20/moving-runner warnings. Release tags/SHAs were read directly from GitHub's official action repositories. Its GitHub checks and merge timeline provide the final publication status; only merge after successful checks.
 
 No new paid-provider evaluation, Auth0 tenant login, public Stoic deployment or Canvas submission was executed.
 

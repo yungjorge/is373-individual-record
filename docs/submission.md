@@ -2,6 +2,8 @@
 
 [Review index](../README.md#research-review-index)
 
+Publication: [initial research/source commit](https://github.com/yungjorge/is373-individual-record/commit/5a0001f5692aa01f7394d30d6f662a4983bf3ecf) · [verification follow-up PR #1](https://github.com/yungjorge/is373-individual-record/pull/1). This publication PR is separate from any future fix for Peter's incoming feedback.
+
 | Deliverable                     | Link / state                                                                                                           |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Jorge's individual assignment   | [yungjorge/is373-individual-record](https://github.com/yungjorge/is373-individual-record)                              |
