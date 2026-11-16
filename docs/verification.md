@@ -18,14 +18,22 @@ Checks executed for this record on November 15, 2026 (Eastern). Historical repor
 
 Additional completed checks:
 
-- `python scripts/check_docs.py`: 31 Markdown files and 93 local destinations passed, including heading anchors and the README review index.
+- `python scripts/check_docs.py`: 31 Markdown files; all local destinations passed, including heading anchors and the README review index.
 - Prettier 3.6.2 formatted the research Markdown; the CI job checks the same files.
 - Offline browser suite: **4 Playwright tests passed in 36.0 seconds**, desktop and mobile Chromium. The suite exercises reflections, citations, bookmarks, persistence/deletion and missing-evidence behavior. No paid inference was used. The copied `docs/screenshots/desktop.png` and `mobile.png` were refreshed by this real run; historical live screenshots in `docs/evidence` remain distinct.
 - Full offline ingestion: 567 units and 909 children across six approved sources; both blocked candidates were rejected as intended.
 - External GET observations: 29 distinct linked URLs checked. Existing portfolio returned HTTP 200. Canvas redirected to NJIT login; Epic P2 returned 403. All other requested URLs returned 200, which does not establish their semantic content or current vacancy status. [Raw observations](checks/external-links.json).
 - Secret-pattern scan of the publishable text found no provider/GitHub tokens or private-key blocks. Runtime databases, credentials and dependency directories are excluded from Git.
 
-CI publication results are added after pushing. No new paid-provider evaluation, Auth0 tenant login, public Stoic deployment or Canvas submission was executed.
+## GitHub publication and CI
+
+Initial source/research commit [`5a0001f`](https://github.com/yungjorge/is373-individual-record/commit/5a0001f5692aa01f7394d30d6f662a4983bf3ecf) was pushed to `main`. [GitHub Actions run 43797939960](https://github.com/yungjorge/is373-individual-record/actions/runs/43797939960) completed successfully: documentation, backend and frontend jobs all passed, including offline Chromium desktop/mobile tests. The frontend job took 1 minute 46 seconds; backend 35 seconds. This establishes CI-tested status for the preserved source, not production deployment.
+
+A real Chromium browser loaded the public GitHub repository with HTTP 200, found the README title and Research Review Index table, and followed Career research to the intended document/anchor. [Browser observations](checks/github-browser.json) and [actual README capture](checks/github-readme.png) preserve that check. The capture was also visually inspected; no rendering failure was found in the index.
+
+The verification follow-up pins Ubuntu 24.04 and current action release commit SHAs to remove the initial run's Node 20/moving-runner warnings. Release tags/SHAs were read directly from GitHub's official action repositories. PR checks must pass before merging this follow-up.
+
+No new paid-provider evaluation, Auth0 tenant login, public Stoic deployment or Canvas submission was executed.
 
 ## Reproduction
 
