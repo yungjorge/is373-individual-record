@@ -31,6 +31,15 @@ try:
         child = db.scalars(select(Chunk).where(Chunk.parent_id == passage.id).order_by(Chunk.start)).first()
         record = db.get(Source, passage.source_id)
         hits, debug = retrieve(db, store, "What can I control according to Epictetus?", mode="hybrid", rerank=True)
+        historical = json.loads((APP / "docs/evidence/live-conversation.json").read_text(encoding="utf-8"))
+        promotion = db.get(Passage, "enchiridion-long:XXV")
+        candidate_id = historical["first"]["debug"]["candidates"][0]["chunk_id"]
+        promotion_child = db.get(Chunk, candidate_id)
+        citation = next(c for c in historical["first"]["citations"] if c["passage_id"] == promotion.id)
+        assert promotion_child is not None and promotion_child.parent_id == promotion.id
+        assert promotion_child.quote_text == promotion.quote_text[promotion_child.start:promotion_child.end]
+        assert citation["quote_text"] in promotion.quote_text
+        assert citation["surrounding_passage"] == promotion.quote_text
         result = {
             "execution": "offline demo vectors; no model-generated answer or paid API call",
             "import": imported, "validation": validate(), "source_id": record.id,
@@ -42,6 +51,13 @@ try:
             "expected_passage_retrieved": any(h["passage_id"] == passage.id for h in hits),
             "strategies": debug["strategies"],
             "illustrative_interpretation_not_model_output": "Focus on your own judgments and actions, while distinguishing external circumstances.",
+            "historical_promotion_source_check": {
+                "execution": "free source/chunk/quote replay; historical semantic search and generation not rerun",
+                "passage_id": promotion.id, "historical_first_candidate_id": candidate_id,
+                "offsets": [promotion_child.start, promotion_child.end],
+                "chunk_matches_parent_span": True, "saved_quote_matches_approved_parent": True,
+                "saved_surrounding_passage_matches_parent": True,
+            },
         }
     output = ROOT / "docs/checks/worked-trace.json"
     output.parent.mkdir(parents=True, exist_ok=True)

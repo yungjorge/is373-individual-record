@@ -2,6 +2,10 @@
 
 [Review index](../README.md#research-review-index) · [Career rationale](career.md)
 
+## Audience and featured evidence
+
+Primary reader: an enterprise applications hiring manager or technical lead evaluating whether Jorge can translate business requirements into tested applications and integrations. Feature Stoic Companion's API/source/citation work and the practical portfolio's delivery pipeline first; show Dynamics 365, Power Automate, Power BI and business analysis as owner-supplied professional context until a sanitized case is approved. [Responsibility-to-artifact matrix](evidence.md) identifies concrete evidence and gaps.
+
 ## Two layout concepts
 
 |                 | Concept A: evidence first                                                                                   | Concept B: business workflow story                                                               |
@@ -29,3 +33,5 @@ Use a restrained Swiss hierarchy: clear type scale, generous space, descriptive 
 Visitor journey: home → role and promise → case study → code/check evidence → contact. Existing site is in `is373-practical-test`; this checkpoint records the content/design decision. No changes to its deployment are needed to make the research reviewable.
 
 Planned usability check: give Peter the README without explanation; ask him to identify audience, locate one employer-to-project trace and find the next action. Record his actual words and one resulting revision. Keyboard navigation, visible focus, descriptive links, semantic headings, responsive reading and contrast require browser checks when the selected design is implemented.
+
+Actual peer check: [Peter's November 16 review, issue #2](https://github.com/yungjorge/is373-individual-record/issues/2), found the multi-document record overwhelming. The README now leads with career goal, app purpose, principal decisions and unfinished work. This implements his suggestion; it does not establish that the planned comprehension/usability check passed.

@@ -31,6 +31,8 @@ Please open a specific constructive GitHub issue in my repository with the file/
 
 ## Incoming review and resolution
 
-No genuine incoming issue was present when the new repository was inspected. Peter's review, issue URL, reproduction, fix commit/PR, tests and verified closure remain **pending**. Do not invent or self-file feedback under Peter's name. Recheck immediately before submission; once a real issue arrives, read it fully, reproduce it, implement/test the fix, push/merge under repository rules, and close only with a verified explanation and commit/PR link.
+[Issue #2 — Record is hard to follow for a non-expert reader](https://github.com/yungjorge/is373-individual-record/issues/2) was genuinely filed by Peter Balasis (`pb392`) after his November 16 walkthrough. GitHub inspection on November 17 confirmed it is open with no comments. Peter found the material spread over many pages and asked for a short summary covering career goal, app purpose, main decision and unfinished work.
 
-This message is prepared, not sent through email/chat. Publishing the authorized GitHub feedback issue does not establish that Peter has reviewed this project or that a human exchange is complete.
+Reproduction: before this update, the README started with a large review-index table and technical status paragraphs, without the requested plain-language summary. Response: a new “Start here” summary covers all four points, followed by the two required assignment sections and links to the existing detail. A structural documentation check verifies navigation, and the four requested items are present. This is an AI/source inspection, not a new human comprehension test.
+
+**Pending:** Peter independently rereads the summary and explains the four points; Jorge reviews the changes and handles any follow-up comment/closure. No issue comment, closure, email or chat message was sent in this November 17 update. The prepared message above is retained as the earlier unsent invitation, not evidence of a newly sent exchange.

@@ -52,5 +52,17 @@
     "RRF",
     "lexical-overlap-rerank"
   ],
-  "illustrative_interpretation_not_model_output": "Focus on your own judgments and actions, while distinguishing external circumstances."
+  "illustrative_interpretation_not_model_output": "Focus on your own judgments and actions, while distinguishing external circumstances.",
+  "historical_promotion_source_check": {
+    "execution": "free source/chunk/quote replay; historical semantic search and generation not rerun",
+    "passage_id": "enchiridion-long:XXV",
+    "historical_first_candidate_id": "a94b3871-9ac8-577e-aaa9-5e6f8edadc10",
+    "offsets": [
+      0,
+      866
+    ],
+    "chunk_matches_parent_span": true,
+    "saved_quote_matches_approved_parent": true,
+    "saved_surrounding_passage_matches_parent": true
+  }
 }

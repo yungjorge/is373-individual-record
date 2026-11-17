@@ -1,0 +1,36 @@
+{
+  "checked_at_utc": "2026-11-17T18:26:09.289922+00:00",
+  "method": "GET, standard TLS certificate verification, follow redirects; status does not verify page meaning",
+  "results": [
+    {
+      "url": "https://104-248-208-29.nip.io",
+      "status": 200,
+      "final_url": "https://104-248-208-29.nip.io",
+      "bytes": 22967
+    },
+    {
+      "url": "https://qa.104-248-208-29.nip.io",
+      "status": 200,
+      "final_url": "https://qa.104-248-208-29.nip.io",
+      "bytes": 22967
+    },
+    {
+      "url": "https://www.version1.com/en-us/careers/job-listings/power-platform-developer-ref7108v/",
+      "status": 200,
+      "final_url": "https://www.version1.com/en-us/careers/job-listings/power-platform-developer-ref7108v/",
+      "bytes": 267492
+    },
+    {
+      "url": "https://www.citylit.ac.uk/media/wysiwyg/Junior_Power_Platform_Developer_JD_Jan_2026_1.pdf",
+      "status": 200,
+      "final_url": "https://www.citylit.ac.uk/media/wysiwyg/Junior_Power_Platform_Developer_JD_Jan_2026_1.pdf",
+      "bytes": 173603
+    },
+    {
+      "url": "https://amazon.jobs/en/jobs/10564107/business-intelligence-engineer-studios-analytics",
+      "status": 200,
+      "final_url": "https://amazon.jobs/en/jobs/10564107/business-intelligence-engineer-studios-analytics",
+      "bytes": 44446
+    }
+  ]
+}

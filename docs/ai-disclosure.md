@@ -12,6 +12,8 @@ Jorge still needs to verify:
 - His Services for the Underserved and Peerless Umbrella descriptions, permitted disclosure and any professional outcomes. No invented metrics were added.
 - Peter's cited note/README passages and whether the issue accurately captures Jorge's own observations.
 - Source rights for any wider distribution and philosophical meaning/quotation context; automated quote integrity does not establish interpretive accuracy.
-- The actual course deadline, rubric and Canvas destination, plus his own final submission.
+- The supplied November 17 assignment against Canvas and the submission destination, plus his own final submission.
 
-Peter's feedback will be recorded only after a real review. No human review, personal walkthrough, live production deployment or new paid-model evaluation has been fabricated.
+Peter's real November 16 feedback is now linked as issue #2; his recheck of the revised summary is pending. No human review, personal walkthrough, live production deployment or new paid-model evaluation has been fabricated.
+
+November 17 assistance updated the existing record for the supplied assignment, compared the named alternatives, defined observable stories, checked a saved promotion citation against approved text, and prepared Canvas text. Fresh checks are dated separately from historical implementation evidence. Career selection and design recommendations remain AI-assisted interpretations for Jorge to validate.
