@@ -31,14 +31,19 @@ The user-provided AGENTS instructions authorize Postman CLI for API engineering.
 - [x] Compare two portfolio layouts and outline selected content.
 - [x] Inspect existing Stoic application; document sources, architecture, trace and evaluation.
 - [x] Add a prominent navigable review index and AI disclosure.
+- [ ] Jorge personally checks the AI findings and records his own observations.
+- [x] Record the governing November 17 assignment and its supplied deadline.
+- [ ] Jorge submits the prepared two-section text in the actual Canvas assignment.
+
+Publication and test evidence are maintained in [verification](verification.md). No new public deployment is justified solely by the accessible Plan reference. The application already exists locally; no hosting infrastructure was changed.
+
+## Separate historical peer-review workflow
+
+The earlier partner review is preserved in [review-exchange.md](review-exchange.md). It is not a required deliverable or completion gate for the supplied Review 1 portfolio/RAG assignment. The November 17 request asked for inspection of that existing workflow; including Peter in the Canvas text was an unnecessary carryover and has been corrected.
+
 - [x] Answer all six partner questions and distinguish planning from execution.
 - [x] Prepare specific constructive issue feedback and publish it; exact link in peer-review record.
 - [x] Prepare review invitation; check actual incoming issues.
 - [x] Peter performed a genuine review and opened [issue #2](https://github.com/yungjorge/is373-individual-record/issues/2); received and inspected November 17.
 - [x] Reproduce the navigation problem and implement the requested four-point README summary.
 - [ ] Obtain Peter's independent recheck and close the issue only after verification.
-- [ ] Jorge personally checks the AI findings and records his own observations.
-- [x] Record the governing November 17 assignment and its supplied deadline.
-- [ ] Jorge submits the prepared two-section text in the actual Canvas assignment.
-
-Publication and test evidence are maintained in [verification](verification.md). No new public deployment is justified solely by the accessible Plan reference. The application already exists locally; no hosting infrastructure was changed.

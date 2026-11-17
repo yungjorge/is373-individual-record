@@ -26,7 +26,7 @@ Stoic Companion supports reflection on real-life situations using verified passa
 
 [Five observable user stories and acceptance criteria](https://github.com/yungjorge/is373-individual-record/blob/main/docs/evaluation.md#five-observable-user-stories) cover relevant passages, verifiable quotations, follow-ups, author filtering and insufficient evidence. [Verification and limits](https://github.com/yungjorge/is373-individual-record/blob/main/docs/verification.md) distinguish executed checks from plans. The app has no public deployment; retrieval quality, prose support and real Auth0 login remain unfinished.
 
-[Peter's genuine incoming review, issue #2](https://github.com/yungjorge/is373-individual-record/issues/2), prompted the new plain-language summary; independent recheck and closure are pending. [Published outgoing feedback](https://github.com/pb392/is373-individual-record/issues/1) and [AI disclosure](https://github.com/yungjorge/is373-individual-record/blob/main/docs/ai-disclosure.md) document the peer workflow and assistance.
+[AI disclosure](https://github.com/yungjorge/is373-individual-record/blob/main/docs/ai-disclosure.md) records research and implementation assistance.
 
 ---
 
@@ -35,6 +35,5 @@ Stoic Companion supports reflection on real-life situations using verified passa
 - [ ] Personally review the employer summaries, professional/degree wording, AI-assisted career/design choices and philosophical interpretations.
 - [ ] Read the published record and confirm the links in the Canvas editor preview.
 - [ ] Submit both sections as one text entry in the actual Canvas assignment. No Canvas submission was made by the assistant.
-- [ ] Obtain Peter's recheck of the summary and handle issue #2 follow-up; it remains open.
 
 Existing publication history: [initial source/research commit](https://github.com/yungjorge/is373-individual-record/commit/5a0001f5692aa01f7394d30d6f662a4983bf3ecf) and [merged verification PR #1](https://github.com/yungjorge/is373-individual-record/pull/1). This update reuses the same record and source snapshot; it creates no duplicate project/report or new deployment.

@@ -34,4 +34,4 @@ The November 17 user request supplies the current Services for the Underserved B
 
 Employer facts appear only in J1–J3. Role selection, fit and the portfolio recommendation are AI-assisted interpretations for Jorge to validate. Full-stack, cloud and RAG work demonstrate supporting implementation skills rather than a third competing career target.
 
-Next: verify eligibility/location and degree timeline; personally confirm each posting summary; obtain permission for any professional case study; build a synthetic-data Power Platform integration example that demonstrates ALM and access control; ask Peter to test whether the selected audience and evidence are clear.
+Next: verify eligibility/location and degree timeline; personally confirm each posting summary; obtain permission for any professional case study; build a synthetic-data Power Platform integration example that demonstrates ALM and access control; ask a new reader to test whether the selected audience and evidence are clear.

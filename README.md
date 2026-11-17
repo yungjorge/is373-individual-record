@@ -8,8 +8,6 @@ My selected career direction is business systems and enterprise applications: co
 
 The main decisions are an evidence-first portfolio layout and keeping the existing Qdrant retrieval system with structure-aware chunks that link back to complete passages. A graph database has no demonstrated benefit for the current shallow source relationships. Still unfinished: stronger retrieval results, independent review of generated interpretations, a configured Auth0 tenant, and public Stoic hosting. The app has historical local live-model evidence and free regression checks; it has no public deployment.
 
-This summary responds to [Peter's genuine review issue #2](https://github.com/yungjorge/is373-individual-record/issues/2). His independent recheck and issue closure remain pending.
-
 # 1. Portfolio + career research
 
 **Decision:** target business systems / enterprise applications engineering. BI/data analytics engineering is the adjacent alternative. The choice fits the supplied analyst background and employer demand for integrations, automation and maintainable applications; it is a student/AI interpretation, not an employer endorsement or proof of eligibility.
@@ -30,9 +28,9 @@ This summary responds to [Peter's genuine review issue #2](https://github.com/yu
 - [Approved source registry](projects/stoic-companion/corpus/sources.json) and [translations, original URLs, rights and import policy](projects/stoic-companion/docs/SOURCES_AND_LICENSES.md).
 - [Complete source-to-answer trace](docs/trace.md#historical-promotion-question): the saved real promotion conversation is historical November 12 evidence; the isolated free trace is a separate reproducible check.
 - [Five observable user stories](docs/evaluation.md#five-observable-user-stories), each with persona, function, value and acceptance criteria; [retrieval evaluation and outstanding gates](docs/evaluation.md#acceptance-gates).
-- [Actual checks and limitations](docs/verification.md), [peer-review exchange](docs/review-exchange.md), [AI disclosure](docs/ai-disclosure.md), and [ready-to-copy Canvas entry](docs/submission.md#canvas-text-entry).
+- [Actual checks and limitations](docs/verification.md), [AI disclosure](docs/ai-disclosure.md), and [ready-to-copy Canvas entry](docs/submission.md#canvas-text-entry).
 
-**Next:** improve and independently evaluate retrieval and prose support, test insufficient-evidence behavior with reviewed real outputs, configure Auth0 before member deployment, and request Peter's recheck of the new summary. No graph implementation or paid rerun is needed for this Plan record.
+**Next:** improve and independently evaluate retrieval and prose support, test insufficient-evidence behavior with reviewed real outputs, configure Auth0 before member deployment, and test the summary with a new reader. No graph implementation or paid rerun is needed for this Plan record.
 
 ## Research Review Index
 
@@ -49,8 +47,6 @@ This summary responds to [Peter's genuine review issue #2](https://github.com/yu
 | Source → chunk → answer → citation           | [Worked retrieval trace](docs/trace.md)                                                                                                  |
 | Evaluation questions and acceptance criteria | [Evaluation](docs/evaluation.md)                                                                                                         |
 | Actual checks and limitations                | [Verification results](docs/verification.md)                                                                                             |
-| Answers to Peter's six questions             | [AI-assisted peer review](docs/peer-review.md)                                                                                           |
-| Incoming peer feedback and response          | [Review status](docs/review-exchange.md#incoming-review-and-resolution)                                                                  |
 | AI use and personal verification             | [Disclosure](docs/ai-disclosure.md)                                                                                                      |
 | Submission and outstanding work              | [Submission checklist](docs/submission.md)                                                                                               |
 
